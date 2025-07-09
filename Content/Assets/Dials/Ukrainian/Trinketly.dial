@@ -1,0 +1,119 @@
+TRINKET_NULL_NAME = Null
+TRINKET_NULL_DESCRIPTION = Oops.
+
+TRINKET_SOCK_NAME = Стара Шкарпетка
+TRINKET_SOCK_DESCRIPTION = Де друга?
+
+TRINKET_APPLE_CORE_NAME = Використане Яблуко
+TRINKET_APPLE_CORE_DESCRIPTION = Що? Я був голодний.
+
+TRINKET_FLAG_NAME = Красивий Прапор
+TRINKET_FLAG_DESCRIPTION = Це що за країна?
+
+TRINKET_FLAG2_NAME = Милий Прапор
+TRINKET_FLAG2_DESCRIPTION = Це що за країна?
+
+TRINKET_FIGURE_NAME = Лялька Ґарбанзо
+TRINKET_FIGURE_DESCRIPTION = Виглядає як справжній!
+
+TRINKET_FIGURE2_NAME = Лялька Пінто
+TRINKET_FIGURE2_DESCRIPTION = Виглядає як справжній!
+
+TRINKET_FIGURE3_NAME = Лялька Френкі
+TRINKET_FIGURE3_DESCRIPTION = Виглядає як справжній!
+
+TRINKET_FIGURE4_NAME = Лялька Ґостлі
+TRINKET_FIGURE4_DESCRIPTION = Виглядає як справжній!
+
+TRINKET_MUSHROOM_NAME = Мугомор
+TRINKET_MUSHROOM_DESCRIPTION = Це ж так пишеться?
+
+TRINKET_SOCK2_NAME = Синя Шкарпетка
+TRINKET_SOCK2_DESCRIPTION = Де друга?
+
+TRINKET_RUBBER_DUCKY_NAME = Гумова Качечка
+TRINKET_RUBBER_DUCKY_DESCRIPTION = Нарешті, справжній друг.
+
+TRINKET_SUNSCREEN_NAME = Сонцезахисний крем
+TRINKET_SUNSCREEN_DESCRIPTION = Напевно, тобі варто ним скористатися.
+
+TRINKET_LETTER_NAME = Лист до Біллі'
+TRINKET_LETTER_DESCRIPTION = "Любий Татку, я тебе ненавиджу."
+
+TRINKET_HONEY_NAME = Банка Меду
+TRINKET_HONEY_DESCRIPTION = Бджоли дякують тобі своїм смачним желе.
+
+TRINKETLY_FAST_WAS_HERE = Йди геть!
+
+TRINKETLY_FAST = Візьми це!
+
+*TRINKETLY.WAS_HERE = 
+    <c={SUBTLE_HEX}>(Можливо, якщо я стоятиму нерухомо, вони підуть геть.)</c>
+
+%TRINKETLY.1 =
+    О! Ти мене знайшов!
+
+    ...
+
+    Що? Я не загубився, чи щось таке. Просто сиджу собі.
+
+    ...
+
+    Га? Ти думав, що я тобі щось дам?
+
+    О, ну добре... Тримай це, напевно?
+        
+    => TRINKETLY.TRINKET_GIVE
+
+%TRINKETLY.2 =
+    О? Не думав знову на тебе натрапити.
+
+    ...
+
+    Хочеш щось ще? Ем, думаю, можеш взяти це.
+
+    => TRINKETLY.TRINKET_GIVE
+
+%TRINKETLY.3 =
+    Слухай... Я не надто товаристська персона. Є причина, через яку мене так важко знайти!
+
+    ...
+
+    Гмф, ти все ще чогось хочеш, еге ж?
+
+    Ну добре, Я не безсердечний. Я бачу, що тобі дуже хочеться.
+
+    => TRINKETLY.TRINKET_GIVE
+
+TRINKETLY.4 =
+    Вже знаю чого ти тут!
+
+    => TRINKETLY.TRINKET_GIVE
+
+*TRINKETLY.TRINKET_GIVE =
+    @TELEGRAPH
+
+    @WAIT
+
+    @SHOOT
+
+    @WAIT_ITEM
+
+    ...
+
+    @NORMAL
+
+    Це нічо не робить... але виглядає прикольно, еге ж?
+
+    Що ж... бувай!
+
+*TRINKETLY.FAST_TRINKET_GIVE =
+    @TELEGRAPH
+
+    @WAIT
+
+    @SHOOT
+
+    @WAIT_ITEM
+
+    @NORMAL

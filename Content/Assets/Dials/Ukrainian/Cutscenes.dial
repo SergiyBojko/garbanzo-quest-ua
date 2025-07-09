@@ -1,0 +1,506 @@
+# More complicated cutscenes/ things I didnt' feel like converting to the newer system
+
+CUTSCENE_DEFAULT = Привіт!
+
+# LEVEL CLEAR STATS
+
+CUTSCENE_SLICK = $тильно!
+CUTSCENE_GOOD = Гарна робота!
+CUTSCENE_NICE = Чудово!
+CUTSCENE_PROUD = Я так пишаюся тобою!
+CUTSCENE_ANYTHING = Ти це зробив!
+
+CUTSCENE_TIME = Час
+CUTSCENE_KOS = Нокаутів
+CUTSCENE_Hurts = Шкоди
+CUTSCENE_JUMPS = Стрибків
+CUTSCENE_SPITS = Плювків
+CUTSCENE_SHOTS = Пострілів
+CUTSCENE_HITS = Попадань
+CUTSCENE_DISGUSTS = Оглушень
+CUTSCENE_KILLS = Вбивств
+
+# TITLE
+
+CUTSCENE_TITLE_1 = Привітики! Попрошу тебе зробити пару речей для мене, а тоді відправлю далі.
+CUTSCENE_TITLE_2 = Для початку, можеш назвати мені <c={IMPORTANT_HEX}>Ім'я</c>? Будь-яке згодиться.
+CUTSCENE_TITLE_3 = Схоже, що тобі байдуже... Сподіваюся, ти не проти, якщо я називатиму тебе <c={IMPORTANT_HEX}>{!0}</c>!
+CUTSCENE_TITLE_NAME = Приємно познайомитись, <c={IMPORTANT_HEX}>{!0}</c>!
+CUTSCENE_TITLE_4 = А зараз обери <c={IMPORTANT_HEX}>Персонажа</c>! Це не страшно, ти зможеш змінити потім.
+CUTSCENE_TITLE_5 = Хочеш увімкнути <c={IMPORTANT_HEX}>Меню Підкруток</c>? Там можна <c={IMPORTANT_HEX}>Підкрутити</c> такі параметри як: Швидкість Гри, Здоров'я чи Силу.
+CUTSCENE_TITLE_6 = Це задумувалось як складний, але водночас захопливий досвід! Але якщо буде занадто, то можеш ним скористатися.
+CUTSCENE_TITLE_7 = Увімкнути <c={IMPORTANT_HEX}>Меню Підкруток</c> зараз? Не хвилюйся, завжди можна передумати.
+CUTSCENE_TITLE_Q1 = Та ні.
+CUTSCENE_TITLE_Q2 = Так, будь ласка!
+CUTSCENE_TITLE_A1 = Гаразд! Увімкнути <c={IMPORTANT_HEX}>Меню Підкруток</c> можна будь-коли на Головному Екрані, при виборі Сейв-Файлу в Налаштуваннях.
+CUTSCENE_TITLE_A2 = Добре! Якщо будеш мати труднощі, Підкрутки доступні в Налаштуваннях!
+CUTSCENE_TITLE_8 = Ну добре-добре, відпускаю тебе... будь чемним!
+
+RESTRICTION_EARLY_ACCESS = Early Access
+RESTRICTION_DEMO = Demo
+
+TITLE_PLAY = ГРАТИ
+TITLE_NEW_GAME = Нова Гра
+TITLE_CONTINUE = Продовжити
+TITLE_LOAD = Завантажити
+
+TITLE_QUICK_TITLE = ШВИДКИЙ СТАРТ
+TITLE_QUICK_NAME = Ім'я
+TITLE_QUICK_CHARACTER = Персонаж
+TITLE_QUICK_FASTER_CUTSCENES = Швидші Катсцени
+TITLE_QUICK_SHOW_TIMER = Показати Таймер
+TITLE_QUICK_ENABLE_TWEAKS = Показати Меню Підкруток
+TITLE_QUICK_TWEAKS = Підкрутки
+TITLE_QUICK_GO = Вперед!
+TITLE_QUICK_START_WITH_ALL_BADGES = Почати з усіма Значками
+TITLE_QUICK_START_WITH_DOUBLE_JUMP = Почати з Подвійним Стрибком
+TITLE_QUICK_LOCK_WARPS = Заблокувати Варпи до Пост-Гри
+TITLE_QUICK_FUN = Веселощі
+TITLE_QUICK_OUTFITS_TITLE = ОДЯГ
+TITLE_QUICK_OUTFITS = Одяг
+TITLE_QUICK_COSTUME = Персонаж
+TITLE_QUICK_ACCESSORY = Аксесуар
+TITLE_QUICK_TINT = Колір
+TITLE_QUICK_COSTUME_TWO = Персонаж Г2
+TITLE_QUICK_ACCESSORY_TWO = Аксесуар Г2
+TITLE_QUICK_TINT_TWO = Колір Г2
+
+# INTRO
+
+INTRO_1 = Не так давно, народ безіменних земель проживав нудне, проте мирне життя. Даючи, хто що може, і отримуючи, що кому треба.
+INTRO_2 = Прийшла Зима, як це було кожного року, але коли вже мало бути Літо, вона все не проходила...
+INTRO_3 = Не в силах терпіти <c=#4572e3>ВІЧНУ ЗИМУ</c>, вони погодилися на угоду від розумного незнайомця. Не підозрюючи про наслідки.
+INTRO_4 = Їх дім було захоплено та перейменовано <c=#97edca>БІЛЛІ' БОУНСОМ</c> та його компанією {ABRA_CADAVER}.
+INTRO_5 = Ті, кого визнали непридатними для <c=#f8c53a>ФРІДОМЛЕНДУ</c>, були вислані геть, жити у <c=#4572e3>ВІЧНІЙ ЗИМІ</c> з нічим окрім їх зламаної волі...
+INTRO_6 = Чи знайдеться хтось, хто зможе повернути мир у {FREEDOMLAND}?
+
+# STATISTICS BOOK
+
+CUTSCENE_AMOUNT = раз
+CUTSCENE_AMOUNT_PLURAL = разів
+
+CUTSCENE_COLLECTION_START = Я знаю що ти зробив.
+CUTSCENE_COLLECTION_END = Я бачу все. Будь чемним.
+CUTSCENE_COLLECTION_1 = Я бачив що ти...
+CUTSCENE_COLLECTION_PLAYED = Грав протягом
+CUTSCENE_COLLECTION_JUMPS = Підстрибнув
+CUTSCENE_COLLECTION_HURTS = Отримав шкоду
+CUTSCENE_COLLECTION_KOS = Отримав по сраці
+CUTSCENE_COLLECTION_SPITS = Плюнув
+CUTSCENE_COLLECTION_SHOTS = Стрельнув
+CUTSCENE_COLLECTION_HITS = Попав
+CUTSCENE_COLLECTION_DISGUSTS = Оглушив ворогів
+CUTSCENE_COLLECTION_FUN = Отримав якийсь номер
+CUTSCENE_COLLECTION_CURSED = Був проклятий
+CUTSCENE_COLLECTION_APOLOGIZED = , але потім попросив вибачення
+
+# CHECKLIST
+
+CHECKLIST_FRIENDS = Друзі
+CHECKLIST_CUSTOMIZATION = Фрагменти Кастомізації
+CHECKLIST_POWER = Фрагменти Сили
+CHECKLIST_DOLLAR = Жадібні Папірці
+CHECKLIST_TRINKET = Дрібнички
+CHECKLIST_GARDEN = Займися Садівництвом.
+CHECKLIST_MERCHANT = Купи це в Торговця.
+CHECKLIST_FOUND = Знайходиться в:
+
+# SOUND CHECK
+
+CUTSCENE_SOUND_CHECK_TITLE = ПЕРЕВІРКА ЗВУКУ
+CUTSCENE_SOUND_CHECK = Я чую все, що ти чуєш! <s=5>Хахахахаха!</s>
+CUTSCENE_SOUND_CHECK_ALL = <s=2>УСЕ ЩО МОЖЕ БУТИ ПОЧУТИМ ДОСТУПНО ДЛЯ ТЕБЕ!</s>
+CUTSCENE_SONG = Пісня
+CUTSCENE_SFX = Ефект
+
+# MERCHANT
+
+CUTSCENE_MERCHANT = геййй...
+CUTSCENE_MERCHANT_2 = ти маєш хабар? я маю хабар. О таааК! <s=10>О! Я ЙОГО МАЮ!</s>
+CUTSCENE_MERCHANT_3 = пробач, я просто так хвилююсь коли мучу мутні мутки.
+CUTSCENE_MERCHANT_4 = то еее... ти маєш хабар?
+CUTSCENE_MERCHANT_Q1 = ннЄ
+CUTSCENE_MERCHANT_Q2 = Еґе (дати доляр)
+CUTSCENE_MERCHANT_6 = Приємно мати з тобов дєло!
+CUTSCENE_MERCHANT_7 = ти <s=5>НЕ</s> маєш хабара! <s=10>СЧЕЗНИ!!!!</s>
+CUTSCENE_MERCHANT_8 = ох.............
+CUTSCENE_MERCHANT_OUT = е... сорі братан, в мене нема хабара...
+CUTSCENE_MERCHANT_OUT_Q1 = здохни
+CUTSCENE_MERCHANT_OUT_Q2 = давай дружити
+CUTSCENE_MERCHANT_OUT_A1 = серйозно?? даже коли в мене нема хабара???
+CUTSCENE_MERCHANT_OUT_A1_2 = виходе, шо мені більше не треба тут ховаться!! ура!
+CUTSCENE_MERCHANT_OUT_A2 = ну добре!
+
+# CHARACTER SELECT
+
+CUTSCENE_COSTUME_TITLE = ВИБІР ПЕРСОНАЖА
+CUTSCENE_COSTUME = Ти хто?
+CUTSCENE_COSTUME_2 = Дякую, що дав знати.
+CUTSCENE_COSTUME_SAME = Ви обоє не можете бути одним персонажем...
+CUTSCENE_COSTUME_GHOSTLY = Тільки 2-й Гравець може бути Ґостлі...
+
+# MEMORY/CLOCK MINIGAME
+
+CUTSCENE_TEST_HECKLE_1 = ПОМИЛКА! ПОМИЛКА! ПОМИЛКА!
+CUTSCENE_TEST_HECKLE_2 = НІ! НАВІТЬ НЕ БЛИЗЬКО!
+CUTSCENE_TEST_HECKLE_3 = НЕНАВИДЖУ ТЕБЕ!
+CUTSCENE_TEST_HECKLE_4 = ТА ЩО З ТОБОЮ НЕ ТАК?
+CUTSCENE_TEST_HECKLE_5 = ДУРНИЙ! ДУРНИЙ! ДУРНИЙ!
+CUTSCENE_TEST_HECKLE_6 = НЕПРАВИЛЬНО! СТРАЖДАЙ!
+CUTSCENE_TEST_HECKLE_7 = ПОМРИ! ПОМРИ! ПОМРИ!
+CUTSCENE_TEST_HECKLE_8 = СХОЖЕ Я СХОДЖУ З РОЗУМУ!
+CUTSCENE_TEST_HECKLE_9 = НЕВІРРРРРРРРРРНО!
+
+CUTSCENE_TEST_CLOCK = Агов, партнере!
+CUTSCENE_TEST_CLOCK_2 = З мого досвіду, допоможе рахувати до 10.
+CUTSCENE_TEST_CLOCK_3 = Чи можеш ти вдарити той таймер, коли годинник дійде до 10?
+CUTSCENE_TEST_CLOCK_4 = Краще тобі постаратись.
+CUTSCENE_TEST_CLOCK_TERSE = Вдар той таймер, коли годинник дійде до 10.
+CUTSCENE_TEST_CLOCK_ACTIVE = :)
+CUTSCENE_TEST_CLOCK_ACTIVE_2 = Холодно.
+CUTSCENE_TEST_CLOCK_ACTIVE_3 = Ти в порядку?
+CUTSCENE_TEST_CLOCK_ACTIVE_4 = Пройшла ціла хвилина, що ти там робиш?
+CUTSCENE_TEST_CLOCK_ACTIVE_5 = Ого. В тебе дійсно погано виходить.
+CUTSCENE_TEST_CLOCK_ACTIVE_6 = ТИ МАРНУЄШ СВІЙ ЧАС.
+CUTSCENE_TEST_CLOCK_FAIL = ВДАР ТОЙ ТАЙМЕР, КОЛИ ГОДИННИК ДІЙДЕ ДО 10.
+CUTSCENE_TEST_CLOCK_FAIL_2 = ПОСТАРАЙСЯ ЦЬОГО РАЗУ.
+CUTSCENE_TEST_CLOCK_WIN = ДОСТАТНЬО БЛИЗЬКО!
+CUTSCENE_TEST_CLOCK_WIN_2 = ІДЕАЛЬНО!
+CUTSCENE_TEST_CLOCK_WIN_3 = ХАХА! ТИ ПОМЕР!
+CUTSCENE_TEST_CLOCK_REWARD = ДЯКУЮ ЗА СПІВПРАЦЮ!
+
+CUTSCENE_TEST_MEMORY = Агов!
+CUTSCENE_TEST_MEMORY_2 = Пам'ятати речі - важливо.
+CUTSCENE_TEST_MEMORY_3 = Ти можеш запа'ятати?
+CUTSCENE_TEST_MEMORY_4 = Краще тобі постаратись.
+CUTSCENE_TEST_MEMORY_TERSE = Ти можеш запа'ятати?
+CUTSCENE_TEST_MEMORY_REPEAT = Так! Знову!
+CUTSCENE_TEST_MEMORY_REPEAT_2 = Так! Ще Раз!
+CUTSCENE_TEST_MEMORY_REMEMBER = Пам'ятаєш?
+CUTSCENE_TEST_MEMORY_FAIL = ТИ МУСИШ ПАМ'ЯТАТИ.
+CUTSCENE_TEST_MEMORY_FAIL_2 = ПОСТАРАЙСЯ ЦЬОГО РАЗУ.
+CUTSCENE_TEST_MEMORY_EARLY = ЗАЧЕКАЙ! ДОЧЕАЙСЯ КОЛИ Я ЗАКІНЧУ!
+CUTSCENE_TEST_MEMORY_WIN = ХОРОША СПРОБА!
+CUTSCENE_TEST_MEMORY_WIN_2 = ІДЕАЛЬНО!
+CUTSCENE_TEST_MEMORY_WIN_3 = ХАХА! ТИ ПОМЕР!
+CUTSCENE_TEST_MEMORY_REWARD = ДЯКУЮ ЗА СПІВПРАЦЮ!
+
+CUTSCENE_SUSPENSE = ...
+
+# PODIUM
+
+CUTSCENE_PODIUM_EARLY = Гмм, що це таке? Мабудь варто прийти сюди пізніше.
+CUTSCENE_PODIUM_BADGE_1 = Це <c={IMPORTANT_HEX}>Значок Сили {!0}</c>!\n\n<c={SUBTLE_HEX}>Дозволь мені розповісти про нього...</c>
+CUTSCENE_PODIUM_BADGE_2 = <c={SUBTLE_HEX}>Коли вдягнений:</c> {!0}
+CUTSCENE_PODIUM_BADGE_NOT_ENOUGH = Повертайся коли матимеш достатньо <i=BadgeFragmentSmallWhiteOutline,1,16,12,10></i>, щоб зробити його.
+CUTSCENE_PODIUM_BADGE_AFFIRM = Хочеш зробити <c={IMPORTANT_HEX}>Значок Сили {!0}</c> за <i=BadgeFragmentSmallWhiteOutline,1,16,12,10></i>{!1}?
+CUTSCENE_PODIUM_BADGE_CLEAN = Якщо не хочеш користуватися Значками, використай це мило щоб їх змити!
+CUTSCENE_PODIUM_BADGE_TUTORIAL = Ей друзяко, у тебе вже 2 Значка! Хочеш дізнатися як користуватися <c={IMPORTANT_HEX}>Швидкою Зміною</c>?
+CUTSCENE_PODIUM_FUN_ADJECTIVE_1 = казкове
+CUTSCENE_PODIUM_FUN_ADJECTIVE_2 = величне
+CUTSCENE_PODIUM_FUN_ADJECTIVE_3 = чудесне
+CUTSCENE_PODIUM_FUN_ADJECTIVE_4 = відоме
+CUTSCENE_PODIUM_FUN_ADJECTIVE_5 = прекрасне
+CUTSCENE_PODIUM_FUN_ADJECTIVE_6 = міфічне
+CUTSCENE_PODIUM_FUN_ADJECTIVE_7 = легендарне
+CUTSCENE_PODIUM_FUN_ADJECTIVE_8 = вигадливе
+CUTSCENE_PODIUM_FUN_ADJECTIVE_9 = епохальне
+CUTSCENE_PODIUM_FUN_ADJECTIVE_10 = почесне
+CUTSCENE_PODIUM_FUN_ADJECTIVE_11 = високе
+CUTSCENE_PODIUM_FUN_ADJECTIVE_12 = пишне
+CUTSCENE_PODIUM_FUN_ADJECTIVE_13 = верховне
+CUTSCENE_PODIUM_FUN_ADJECTIVE_14 = оспіване
+CUTSCENE_PODIUM_FUN_ADJECTIVE_15 = незрівнянне
+CUTSCENE_PODIUM_FUN_RUDE_1 = Мені всеодно, подобається тобі, чи - ні.
+CUTSCENE_PODIUM_FUN_RUDE_2 = Перебийся.
+CUTSCENE_PODIUM_FUN_RUDE_3 = Гаразд?
+CUTSCENE_PODIUM_FUN_RUDE_4 = Змирись з цим.
+CUTSCENE_PODIUM_FUN_RUDE_5 = І як вона це робить?
+CUTSCENE_PODIUM_FUN_RUDE_6 = Я така талановита.
+CUTSCENE_PODIUM_FUN_RUDE_7 = Ідеальне творіння.
+CUTSCENE_PODIUM_FUN_NICE_1 = Сподіваюсь, тобі сподобається.
+CUTSCENE_PODIUM_FUN_NICE_2 = Дякую за матеріали.
+CUTSCENE_PODIUM_FUN_NICE_3 = Він твій.
+CUTSCENE_PODIUM_FUN_NICE_4 = Насолоджуйся.
+CUTSCENE_PODIUM_FUN_NICE_5 = Думаю, тобі сподобається.
+CUTSCENE_PODIUM_FUN_NICE_6 = Тільки для тебе.
+CUTSCENE_PODIUM_FUN_NOT_ENOUGH = Ні, тобі потрібно більше <i=AccessoryFragmentSmallWhiteOutline,1,16,12,10></i>, щоб я могла зробити <c={IMPORTANT_HEX}>Щось</c> {!0} там.
+CUTSCENE_PODIUM_FUN_1 = Хочеш щоб я зробила <c={IMPORTANT_HEX}>Щось</c>? Я зроблю що мені заманеться. Це коштуватиме тобі <i=AccessoryFragmentSmallWhiteOutline,1,16,12,10></i>{!0}.
+CUTSCENE_PODIUM_FUN_BUILD = О, мені вдалося створити щось справді {!0}! Це <c={IMPORTANT_HEX}>{!1}</c>. {!2}
+CUTSCENE_PODIUM_FUN_CANVAS = Я зробила для тебе {!0}, йди намалюй щось. Творчість піде тобі на користь.
+CUTSCENE_PODIUM_FUN_CLEAN = Я додала мило безкоштовно. Від тебе тхне.
+CUTSCENE_PODIUM_FUN_DICE = Якщо не можеш вирішити що вдягнути, будь ласка, проконсультуйся з кубиком.
+
+CUTSCENE_PENCIL_AFFIRM_SAVE = Ти хочеш вийти і <c={IMPORTANT_HEX}>Зберегти Зміни</c>?
+CUTSCENE_PENCIL_AFFIRM_CANCEL =  Ти хочеш вийти і <c={RED_HEX}>Відмінити Зміни</c>?
+
+# QUICK SWAP
+
+CUTSCENE_QUICK_SWAP = Зробімо це разом!
+CUTSCENE_QUICK_SWAP_OPEN = Відкрий
+CUTSCENE_QUICK_SWAP_HIGHLIGHT = Обери
+CUTSCENE_QUICK_SWAP_HOLD = Утримуй Напрямок
+CUTSCENE_QUICK_SWAP_CONFIRM = Підтвердь
+CUTSCENE_QUICK_SWAP_RELEASE = Відпусти
+CUTSCENE_QUICK_SWAP_DONE = Оце й все!
+CUTSCENE_QUICK_SWAP_2 = Так! Це все! Тепер ти розумієш як користуватися Швидкою Зміною?
+CUTSCENE_QUICK_SWAP_Q1 = Ні, покажи ще раз.
+CUTSCENE_QUICK_SWAP_Q2 = Так, я розумію!
+CUTSCENE_QUICK_SWAP_Q1_PLURAL = Ні, покажи нам ще раз.
+CUTSCENE_QUICK_SWAP_Q2_PLURAL = Так, ми зрозуміли!
+
+# CHAPTER ENDS
+
+CUTSCENE_CHAPTER_END_SNOWF = З великою рішучістю {HERO} {WAS} здолати божевільну Каменюку і покласти край безглуздій роботі Фабрики Токсичного Слизу. Чи була {FOREVER_WINTER} викликана цим? Чи зможе {HERO} здолати усі інші виклики, що чекають на нього у <c=#f8c53a>ФРІДОМЛЕНДІ</c>?
+CUTSCENE_CHAPTER_END_LEVELD = З великою впевненістю, {HERO} {WAS} здолати пихатого Доктора Професора Науку та знищити занедбану Фабрику Бомб. Безсумнівно, вона не могла бути єдиною? Як би там не було, через {HERO} у {ABRA_CADAVER} тепер багато проблем.
+CUTSCENE_CHAPTER_END_LEVELD_SPECIAL = З великою впевненістю, {HERO} {WAS} здолати оболонку Доктора Професора Науки та знищити занедбану Фабрику Бомб. Безсумнівно, вона не могла бути єдиною? Як би там не було, через {HERO} у {ABRA_CADAVER} тепер багато проблем, в химерному порядку.
+CUTSCENE_CHAPTER_END_SNOWG = З великою непокорою {HERO} {WAS} здолати покірного Прото-Провіденса та знищити системи спостереження ЖАХЛИВОГО ХЕКЛА. Можливо, це принесе полегшення тим, кому не пощастило застрягти тут.
+CUTSCENE_CHAPTER_END_MUSHB = З великою доблестю {HERO} {WAS} здолати невротичного Руйнівного Ангела та демонтувати Фабрику Пилу Дурості. Навіщо {ABRA_CADAVER} створювала такі отрути?
+CUTSCENE_CHAPTER_END_CRAPI = І от {HERO} впав. І падав дуже-дуже довго...
+CUTSCENE_CHAPTER_END_HECKZ = Тепер, коли Двері відкрито, втеча можлива для {HERO} та їхніх друзів...
+CUTSCENE_CHAPTER_END_BELLYZ = Дякуємо, {HERO}. Завдяки вашим зусиллям Боб вилікувався від своєї жахливої недуги.
+CUTSCENE_CHAPTER_END_FREEDOMZ = І просто отак...\n\nЗавдання {HERO} нарешті завершене.
+CUTSCENE_CHAPTER_END_VOIDZ = Одне діло - здолати людину...\n\nале здолати ідею?\n\nОсь це справжнє досягнення.
+
+CUTSCENE_CHAPTER_END_AGAIN_SNOWF = З великою рішучістю {HERO} {WAS} знову здолати божевільну Каменюку. З якоїсь причини {HERO} {IS}, щоб потурбувати її ще раз. Чому? Чи ж не вивчила Каменюка свій урок?
+CUTSCENE_CHAPTER_END_AGAIN_LEVELD = З якоїсь причини, {HERO} {IS}, щоб зламати генератор ще трішки. В ньому ще були залишки енергії, та він був добряче зламаний. Схоже {HERO} просто захотілось зробити це ще раз. Вони якісь дивні чи що?
+CUTSCENE_CHAPTER_END_AGAIN_SNOWG = Як це не дивно, {HERO} {IS}, щоб переконатись, що системи спостереження ЖАХЛИВОГО ХЕКЛА усе ще знищені. В них ще залишались крихти функціональності, але насправді, {HERO} не треба було цього робити.
+CUTSCENE_CHAPTER_END_AGAIN_MUSHB = Схоже, {HERO} {IS} до цього забутого місця ще раз... Чому? Мабудь, щоб зустріти Руйнівного Ангела ще раз? Можливо, для того, щоб зробити комплімент їхньому справді крутому імені? Воно справді досить круте, я думаю.
+CUTSCENE_CHAPTER_END_AGAIN_CRAPI = І от {HERO} впав знову...
+CUTSCENE_CHAPTER_END_AGAIN_HECKZ = ...
+CUTSCENE_CHAPTER_END_AGAIN_BELLYZ = Дякуємо {HERO}. Завдяки вашим зусиллям Боб вилікувався від своєї застуди.
+CUTSCENE_CHAPTER_END_AGAIN_FREEDOMZ = І просто отак...\n\nЗавдання {HERO} нарешті завершене.
+CUTSCENE_CHAPTER_END_AGAIN_VOIDZ = Одне діло - здолати людину...\n\nале здолати ідею?\n\nОсь це справжнє досягнення.
+
+CUTSCENE_CHAPTER_END_FAST_GENERIC = ХОРОША РОБОТА
+CUTSCENE_CHAPTER_END_FAST_SNOWF = ТОКСИЧНІСТЬ ЗНИЩЕНО
+CUTSCENE_CHAPTER_END_FAST_LEVELD = БОМБИ ДЕМОНТОВАНО
+CUTSCENE_CHAPTER_END_FAST_SNOWG = СПОСТЕРЕЖЕННЯ ВИКОРІНЕНЕ
+CUTSCENE_CHAPTER_END_FAST_MUSHB = ПРОМИВАННЯ ЗНИЩЕНО
+CUTSCENE_CHAPTER_END_FAST_CRAPI = НЕВЕЛИКА НЕВДАЧА
+CUTSCENE_CHAPTER_END_FAST_HECKZ = ДВЕРІ ВІДЧИНЕНІ
+CUTSCENE_CHAPTER_END_FAST_BELLYZ = НЕДУГА ВИЛІКУВАНА
+CUTSCENE_CHAPTER_END_FAST_FREEDOMZ = ЗАВДАННЯ ЗАВЕРШЕНО
+CUTSCENE_CHAPTER_END_FAST_VOIDZ = ІСТИННА ПЕРЕМОГА
+
+# BOSSES
+
+CUTSCENE_ROCKY_FAST = Я - каменюка!
+CUTSCENE_ROCKY_REPEAT = Ох, знову ти? Я тут живу!
+CUTSCENE_ROCKY_A1 = {ABRA_CADAVER} платить мені $0.0001 кожен другий Вівторок за захист цього смітника!
+CUTSCENE_ROCKY_A1_2 = Я збираю на нову пару вживаних черевиків!
+CUTSCENE_ROCKY_A1_3 = Ніщо не завадить мені з'їсти ті смачні черевики!
+CUTSCENE_ROCKY_A3 = Хаха! Ну і дурень!
+CUTSCENE_ROCKY_A3_2 = Смердючий шмат сміття!
+CUTSCENE_ROCKY_A3_3 = <f=2,4>Прощавай!!!</f>
+CUTSCENE_ROCKY_A2 = Ого! Справді? Це ніколи раніше не працювало!
+CUTSCENE_ROCKY_A2_2 = То ти дійсно просто підеш?
+CUTSCENE_ROCKY_Q3 = Жартую.
+CUTSCENE_ROCKY_Q4 = Так справді, я здаюся.
+CUTSCENE_ROCKY_1 = Стережися!
+CUTSCENE_ROCKY_2 = Я - каменюка!
+CUTSCENE_ROCKY_3 = Я можу сказати, просто глянувши на тебе, що тобі тут не місце! А мені - так!
+CUTSCENE_ROCKY_4 = Геть звідси! {FREEDOMLAND} не місце для ледарів!
+CUTSCENE_ROCKY_Q1 = Ні.
+CUTSCENE_ROCKY_Q2 = Добре.
+CUTSCENE_ROCKY_5 = Знову ти?
+CUTSCENE_ROCKY_6 = Здавайся! Ніщо не здолає камінь!
+CUTSCENE_ROCKY_7 = Як на ледаря, ти надиво впертий!
+CUTSCENE_ROCKY_8 = Я не можу підвести {ABRA_CADAVER}! Чи то була {ABRA_CADABRA}? Байдуже! Я поганий слухач!
+CUTSCENE_ROCKY_9 = Га? Схоже тобі просто подобається бути розчавленим? Це мені підходить!
+CUTSCENE_ROCKY_10 = Ти тут просто щоб витріщатися на мій кліваж? Розумієш? Це геологічний термін! В мене є жарти!
+CUTSCENE_ROCKY_11 = Ну добре, це був мій єдиний жарт... Мене тут не часто відвідують.
+CUTSCENE_ROCKY_EXIT_FAST = Добре, добре! Зупинися!
+CUTSCENE_ROCKY_EXIT_1 = Добре, добре! Зупинися!
+CUTSCENE_ROCKY_EXIT_2 = Я втомилась від твого {ATTACKING} мене! Камінь не все може витримати.
+CUTSCENE_ROCKY_EXIT_3 = З мене досить!
+
+CUTSCENE_ROCKY_TWO_REPEAT = Чому б тобі просто не залишити мене в спокої!?
+CUTSCENE_ROCKY_TWO_1 = Стережися мене!
+CUTSCENE_ROCKY_TWO_2 = Я - каменюка! Знову!
+CUTSCENE_ROCKY_TWO_3 = Я мусіла піти на 2-гу роботу, щоб платити за свою дорогу квартиру!
+CUTSCENE_ROCKY_TWO_4 = Ніщо не зупинить мене від звання працівниці місяця!
+CUTSCENE_ROCKY_TWO_5 = О, тільки не знову!
+CUTSCENE_ROCKY_TWO_6 = Здавайся! чому ти просто не даш мені виграти?!
+CUTSCENE_ROCKY_TWO_7 = Добре, можливо їм варто було найняти тебе, замість мене? Це ти намагаєшся сказати?
+CUTSCENE_ROCKY_TWO_EXIT_1 = Добре, добре! Зупинися!
+CUTSCENE_ROCKY_TWO_EXIT_2 = Це не варте $0.0000000001 на годину!
+CUTSCENE_ROCKY_TWO_EXIT_3 = З мене досить!
+
+CUTSCENE_MR_LEMON_FAST = Йоу.
+CUTSCENE_MR_LEMON_REPEAT_1 = Гей, маленький друже.
+CUTSCENE_MR_LEMON_REPEAT_2 = Я практикував своє сальто, але не впевнений, що мені зараз цього хочеться...
+CUTSCENE_MR_LEMON_1 = Гмм...?
+CUTSCENE_MR_LEMON_2 = Ніхто не повинен дізнатись про мою таємну схованку.
+CUTSCENE_MR_LEMON_3 = Боюся, тобі доведеться померти, друже.
+CUTSCENE_MR_LEMON_4 = Нічого особистого.
+CUTSCENE_MR_LEMON_5 = Я приходжу сюди замислитися. І ще, щоб не платити податки.
+CUTSCENE_MR_LEMON_6 = Без Сорочки, Без Взуття - Немає Обслуговування? Дякую, не треба. Я в таке не вірю.
+CUTSCENE_MR_LEMON_EXIT_FAST = Що з тобою не так?
+CUTSCENE_MR_LEMON_EXIT_REPEAT_1 = Добре, добре, зроблю вже те дурнувате сальто.
+CUTSCENE_MR_LEMON_EXIT_REPEAT_2 = Хоба.
+CUTSCENE_MR_LEMON_EXIT_1 = Гаразд, гаразд. Щось не хочеться тебе більше вбивати.
+CUTSCENE_MR_LEMON_EXIT_2 = Ну, я пішов. Заціни це сальто, яке я практикував.
+
+CUTSCENE_MUSHROOM_FAST = Хіхі!
+CUTSCENE_MUSHROOM_REPEAT_1 = Хіхі! Ти вже передумав?
+CUTSCENE_MUSHROOM_REPEAT_2 = Ніхто не може встояти!
+CUTSCENE_MUSHROOM_REPEAT_3 = Мій <f=2,8>Чарівний Пил</f> зробить тебе <s=4>ДУРНИМ І СЛУХНЯНИМ!</s>
+CUTSCENE_MUSHROOM_1 = Хіхі! Привітики! Ти дуже далеко від дому, еге ж?
+CUTSCENE_MUSHROOM_2 = Місцеве повітря переповнене моїм <s=4>ЧУДОВИМ ПИЛОМ ДУРОСТІ!</s>
+CUTSCENE_MUSHROOM_3 = Чому б тобі не зробити один хороший <f=2,8>глибокий вдих?</f> Ти забудеш про всі проблеми з {ABRA_CADABRA}!
+CUTSCENE_MUSHROOM_Q1 = Ні.
+CUTSCENE_MUSHROOM_Q2 = Добре!
+CUTSCENE_MUSHROOM_A1 = <s=6>НЕ БУДЬ ЗАНУДОЮ!</s>
+CUTSCENE_MUSHROOM_A2 = Хаха, ти - <s=4>ДУРНИЙ!</s> Точно як я!
+CUTSCENE_MUSHROOM_4 = Всі люблять мій пил, що перетворює на <s=6>ДУРНЯ!</s>
+CUTSCENE_MUSHROOM_5 = Мене не просто так кличуть <s=4>РУЙНІВНИМ АГЕЛОМ</s>!
+CUTSCENE_MUSHROOM_EXIT_FAST = Ти справжній обломщик...
+CUTSCENE_MUSHROOM_EXIT_1 = Ти справді вмієш псувати настрій, знаєш?
+CUTSCENE_MUSHROOM_EXIT_2 = Я забираюсь звідси...
+
+CUTSCENE_DOC_FAST = Счезни, волоцюга!
+CUTSCENE_DOC_REPEAT_1 = <s=2>Фу, це знову ти?</s>
+CUTSCENE_DOC_REPEAT_2 = Хіба ти не достатньо згаяв мого часу?
+CUTSCENE_DOC_1 = Сюди далеченько добиратися пішки.
+CUTSCENE_DOC_2 = Від звичайної людини це вимагатиме неабиякої рішучості...
+CUTSCENE_DOC_3 = Безсумнівно, звичайний волоцюга як ти, просто забрів сюди випадково.
+CUTSCENE_DOC_4 = {FREEDOMLAND} було очищено, від таких як ви, не просто так.
+CUTSCENE_DOC_5 = А тепер ви випробовуєте наше терпіння?
+CUTSCENE_DOC_6 = Я вже достатньо натерпівся, дурнуватий {SPECIES}. <s=4>Більше ніякої пощади.</s>
+CUTSCENE_DOC_7 = <s=2>Ти повернувся...</s> Не очікуй від мене поступок!
+CUTSCENE_DOC_8 = Дурнуватий {SPECIES}! Та здохни нарешті!
+CUTSCENE_DOC_9 = Просто здавайся, волоцюга!
+CUTSCENE_DOC_EXIT_FAST = Це марна трата часу...
+CUTSCENE_DOC_EXIT_1 = <s=4>Досить! Це дорогі пристрої!</s> Це просто не економічно для {ABRA_CADABRA}!
+CUTSCENE_DOC_EXIT_2 = Байдуже, ваша банда невдах розпадеться сама собою.
+CUTSCENE_DOC_EXIT_3 = У мене є важливіші справи...
+
+CUTSCENE_FACE_FAST = ПРИЄДНАЙСЯ ДО НАС.
+CUTSCENE_FACE_REPEAT_1 = ТИ ПОВЕРНУВСЯ?
+CUTSCENE_FACE_REPEAT_2 = МОЖЛИВО, ТИ ЗМІНИВ ДУМКУ ПРО ПРИЄДНАННЯ ДО {ABRA_CADABRA}?
+CUTSCENE_FACE_REPEAT_3 = МИ ЯК ОДНА ВЕЛИКА ШАСЛИВА РОДИНА. ТОБІ СПОДОБАЄТЬСЯ.
+CUTSCENE_FACE_REPEAT_4 = МЕНІ ТАК СКАЗАЛИ.
+CUTSCENE_FACE_1 = ЯК ТИ ТУТ ОПИНИВСЯ?
+CUTSCENE_FACE_2 = {ABRA_CADABRA} СТВОРИЛА МЕНЕ ЩОБ НАГЛЯДАТИ ЗА ПРОДУКТИВНОЮ РОБОЧОЮ СИЛОЮ.
+CUTSCENE_FACE_3 = Я ЗНАЮ ХТО ТИ. МЕНІ НАДАЛИ ІНФОРМАЦІЮ ЩО ТИ - "ЛЕДАЧИЙ ВОЛОЦЮГА"...
+CUTSCENE_FACE_4 = НЕМОЖЛИВО, ЩОБ ХТОСЬ НЕВІДПОВІДНИЙ БУВ ЗАРАЗ ПЕРЕДІ МНОЮ.
+CUTSCENE_FACE_5 = БЕЗСУМНІВНО, БУЛО ЗРОБЛЕНО ПОМИЛКУ, ЯКЩО ТИ ЗАРАЗ НЕ НАЙНЯТИЙ НАМИ.
+CUTSCENE_FACE_6 = "{SPECIES}" ЦЕ ТЕ, ЧОГО НЕ ВИСТАЧАЄ {ABRA_CADABRA}. ТИ БУДЕШ КОРИСНИМ ДЛЯ НАШОЇ ІНІЦІАТИВИ З РІЗНОМАНІТНОСТІ.
+CUTSCENE_FACE_7 = НЕ ЧИНИ ОПОРУ.
+CUTSCENE_FACE_8 = {ABRA_CADABRA} ЗАБЕЗПЕЧУЄ КОМПЛЕКСНИЙ ПЛАН МЕДИЧНОГО СТРАХУВАННЯ ДЛЯ СВОЇХ НАЙКРАЩИХ ПРАЦІВНИКІВ.
+CUTSCENE_FACE_9 = ТОБІ ВІН БУДЕ ПОТРІБЕН, КОЛИ Я ЗАКІНЧУ.
+CUTSCENE_FACE_10 = ДУРНИЙ МАЛЕНЬКИЙ "{SPECIES}". РОБОТА ЦЕ ВЕСЕЛО. Я ДУМАЮ.
+CUTSCENE_FACE_11 = ЧОМУ ТАКА НЕПОКОРА? ТОБІ СПРАВДІ НІЧИМ ЗАЙНЯТИСЯ?
+CUTSCENE_FACE_12 = КРАЩЕ ТОБІ ЗДАТИСЯ.
+CUTSCENE_FACE_EXIT_FAST = Я НЕ РОЗУМІЮ...
+CUTSCENE_FACE_EXIT_1 = ОКЕЙ.
+CUTSCENE_FACE_EXIT_2 = ПОПРИ МОЮ ПРОПОЗИЦІЮ, СХОЖЕ ЩО СЬОГОДНІ ТИ НЕ ПРИЄДНАЄШСЯ ДО {ABRA_CADABRA}.
+CUTSCENE_FACE_EXIT_3 =  Я НЕ РОЗУМІЮ, ХІБА НЕ ВСІ ХОЧУТЬ ПРАЦЮВАТИ НА {ABRA_CADABRA}?
+CUTSCENE_FACE_EXIT_4 = ...
+CUTSCENE_FACE_EXIT_5 = МЕНІ Є НАД ЧИМ ПОМІРКУВАТИ...
+
+CUTSCENE_DOC_TWO_FAST = Нікчемний волоцюга!
+CUTSCENE_DOC_TWO_REPEAT_1 = Фу, знову ти?
+CUTSCENE_DOC_TWO_REPEAT_2 = Хіба ти не достатньо згаяв мого часу?
+CUTSCENE_DOC_TWO_1 = Ти не забув про мене, так?
+CUTSCENE_DOC_TWO_ALT_1 = То ми нарешті зустрілися!
+CUTSCENE_DOC_TWO_2 = Ти вже достатньо довго нишпориш серед відходів <c=#f8c53a>ФРІДОМЛЕНДУ</c>, дурнуватий {SPECIES}!
+CUTSCENE_DOC_TWO_4 = Думаєш, здатен вилізти на вежу? Навіть якби міг, ми ніколи не пустимо вас, волоцюг, усередину.
+CUTSCENE_DOC_TWO_5 = Ви більше не марнуватимете повітря <c=#f8c53a>ФРІДОМЛЕНДУ</c>!
+CUTSCENE_DOC_TWO_6 = Що тобою керує? Я вже починаю втрачати терпіння!
+CUTSCENE_DOC_TWO_7 = Ти - ніщо! Простий волоцюга!
+CUTSCENE_DOC_TWO_8 = Фу, здохни вже нарешті!
+
+CUTSCENE_DOC_TWO_EXIT_FAST = Ти так хочеш потрапити всередину? Ну то йди.
+CUTSCENE_DOC_TWO_EXIT_1 = <s=2>Фу, за що, взагалі, ти борешся?</s>
+CUTSCENE_DOC_TWO_EXIT_2 = <s=2>Ти, нікчемна маленька істота, це просто не варте зусиль.</s>
+CUTSCENE_DOC_TWO_EXIT_3 = <s=2>Ти так хочеш потрапити всередину? Ну то йди.</s>
+CUTSCENE_DOC_TWO_EXIT_4 = <s=2>Хай хтось інший з цим розбирається.</s>
+CUTSCENE_DOC_TWO_EXIT_5 = ...
+
+CUTSCENE_BILLI_TOWER_FAST = НІ!
+CUTSCENE_BILLI_TOWER_1 = Здоровенькі були!
+CUTSCENE_BILLI_TOWER_2 = Така радість нарешті з вами зустрітись!
+CUTSCENE_BILLI_TOWER_3 = Мене звати Біллі' Боунс, якщо не було зрозуміло!
+CUTSCENE_BILLI_TOWER_4 = Знаєте, раніше мені не подобалося, коли мене так звали...
+CUTSCENE_BILLI_TOWER_5 = Але десь з кілька сотень років тому, воно мені припало до душі!
+CUTSCENE_BILLI_TOWER_6 = Не соромтеся! <s=2>Хіба не знаєте, як вітатися з новим приятелем?</s>
+CUTSCENE_BILLI_TOWER_7 = Не можу дочекатися, коли заведу вас усіх всередину, де тепло і затишно!
+CUTSCENE_BILLI_TOWER_8 = Усі запрошені! <s=3>Ну хіба це не чудово звучить?</s>
+CUTSCENE_BILLI_TOWER_9 = Для мене честь зробити вас першими новими громадянами <c=#f8c53a>ФРІДОМЛЕНДУ</c>!
+CUTSCENE_BILLI_TOWER_10 = <s=4>От...</s> просто ось там!
+CUTSCENE_BILLI_TOWER_11 = <s=6>Ходімо, я покажу!</s>
+CUTSCENE_BILLI_TOWER_12 = <s=4>Сподіваюсь, їм подобається гаряче!</s>
+CUTSCENE_BILLI_TOWER_13 = Хоча ні, якщо чесно, сподіваюсь, що ні!
+CUTSCENE_BILLI_TOWER_14 = <s=5>Сподіваюсь, вони справді жахливо проведуть час!</s>
+CUTSCENE_BILLI_TOWER_15 = ...
+CUTSCENE_BILLI_TOWER_16 = Виходить, усе знову доведеться робити самому, га...
+CUTSCENE_BILLI_TOWER_17 = <s=4>Час навідатись до того придурка...</s>
+
+CUTSCENE_DOC_THREE_FAST = ось... заява про відставку...
+CUTSCENE_DOC_THREE_1 = <s=5>...</s>
+CUTSCENE_DOC_THREE_2 = <s=5>занадто багато разів я тебе недооцінював...</s>
+CUTSCENE_DOC_THREE_3 = <s=5>з цією силою, яку мені довірили...</s>
+CUTSCENE_DOC_THREE_4 = <s=5>я не можу схибити!</s>
+CUTSCENE_DOC_THREE_5 = <s=5>...</s>
+CUTSCENE_DOC_THREE_6 = <s=5>ехехе... я більше не хочу працювати на абра-кадавр...</s>
+CUTSCENE_DOC_THREE_7 = <s=5>...</s>
+CUTSCENE_DOC_THREE_ALT_1 = <s=5>...</s>
+CUTSCENE_DOC_THREE_ALT_2 = <s=5>ти хто...?</s>
+CUTSCENE_DOC_THREE_ALT_3 = <s=5>счезни, волоцюга</s>
+CUTSCENE_DOC_THREE_EXIT_FAST = покажи їм...
+CUTSCENE_DOC_THREE_EXIT_1 = <s=5>...</s>
+CUTSCENE_DOC_THREE_EXIT_2 = <s=5>покажи їм...</s>
+CUTSCENE_DOC_THREE_EXIT_3 = <s=5>...</s>
+
+CUTSCENE_MUTATION_FAST = Іхіхіхі...
+CUTSCENE_MUTATION_ALT_1 = <s=2>Хііхіі...</s>
+CUTSCENE_MUTATION_1 = <s=5>Іхіхіхіхі...</s>
+CUTSCENE_MUTATION_2 = ...
+CUTSCENE_MUTATION_3 = ...
+CUTSCENE_MUTATION_EXIT_FAST = ...!
+CUTSCENE_MUTATION_EXIT = ...!
+
+CUTSCENE_BILLI_FAST = Здоровенькі були!
+CUTSCENE_BILLI_1 = Привіт, малий.
+CUTSCENE_BILLI_2 = Я поважаю старання, але це вже починає впливати на мій бізнес.
+CUTSCENE_BILLI_3 = Я швиденько, <f=2,4>час то гроші, сам знаєш!</f>
+CUTSCENE_BILLI_4 = <s=5>Гррх...</s>
+CUTSCENE_BILLI_5 = <s=5>Та здохни вже.</s>
+CUTSCENE_BILLI_6 = <s=6>Будь слухняним і помри вже.</s>
+CUTSCENE_BILLI_7 = <s=10>...</s>
+CUTSCENE_BILLI_EXIT_FAST = Як...?
+CUTSCENE_BILLI_EXIT_1 = <s=2>Чому...</s>
+CUTSCENE_BILLI_EXIT_2 = <s=5>Чому ти просто не здохнеш?</s>
+CUTSCENE_BILLI_EXIT_3 = <s=5>З мене досить.</s>
+
+# Lose/protect friends cutscene
+CUTSCENE_PROTECT_FRIENDS = {ABRA_CADAVER} намагалися спіймати усіх твоїх Друзів... Та вони не змогли їх знайти!
+CUTSCENE_LOSE_FRIENDS = {ABRA_CADAVER} схопили тебе і твоїх Друзів...
+
+NO_LONGER_TRAPPED = Ти більше не ув'язнений в ЖАХЛИВОМУ ХЕКЛІ!
+
+# Friend count popup
+CUTSCENE_FRIENDS = ДРУЗІ
+
+# HELP
+
+OFFER_HELP_1 = Гей, не хотів тебе турбувати, але схоже в тебе виникли деякі труднощі. Це нормально!
+OFFER_HELP_2 = Можливо тобі варто заглянути в меню Підкруток, там ти можеш зсінювати правила. Хочеш зробити це зараз?
+
+OFFER_HELP_3 = Добре! Ти можеш змінити правила в меню Підкруток у Параметрах.
+OFFER_HELP_4 = А тепер продовжуй!
+
+OFFER_HELP_5 = Розумію. Більше тебе не турбуватиму.
+OFFER_HELP_6 = Пам'ятай, що ти можеш ввімкнути Підкрутки будь-коли на Головному Екрані.
+OFFER_HELP_7 = Ти впораєшся!
+
+TWEAKS_MESSAGE = Garbanzo Quest задумувалась як складний, але водночас захопливий досвід! Вона створена з думкою про певні правила, але якщо вони виявляться занадто складними, ти можеш Підкрутити ці правила як заманеться.\n\n<color=#ff0000>Або ти можеш зробити гру складнішою, якщо тебе це цікавить :)</color>
+
+# TIPS
+
+TIP_GRAVITY_UP = Утримуй Стрибок щоб летіти вгору!
+TIP_GRAVITY_DOWN = Утримуй Стрибок щоб \nсповільнити падіння!
+TIP_SPIT_BULLETS = Чому б тобі не \nнаплювати на кулі?
+TIP_SPIT_FASTER = Утримуй Кнопку Клювка\nщоб плювати швидше!

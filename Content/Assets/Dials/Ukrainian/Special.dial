@@ -1,0 +1,193 @@
+# DEMO
+
+SMILEY_BEEHAVE.1 =
+    [CrawlSound: SignSpeak, Portrait: SignPortrait]
+    Thank you to AwezomeXD for making this level with the modding tools!
+
+DEMO_END.1 =
+    [CrawlSound: SignSpeak, Portrait: SignPortrait]
+    Hi there! Looks like you've made it to the end of the demo!
+
+    Or did you???
+    
+    That was just the end of World 1! There's some extra levels from later in the game I could show ya!
+
+    I've thrown in some extra tough secret levels too, so it'll give you a good idea of what's to come!
+    
+    How's that sound?
+
+    ?Q
+        Nah, i'm good. => DEMO_END.NO
+        Show me more! => DEMO_END.YES
+
+*DEMO_END.YES =
+    [CrawlSound: SignSpeak, Portrait: SignPortrait]
+    Sure thing!
+    
+    Good luck!
+
+    @A1
+
+*DEMO_END.NO =
+    [CrawlSound: SignSpeak, Portrait: SignPortrait]
+    Alright! Well, thanks for playing!
+
+# CREDITS
+
+CREDITS =
+    [CrawlSound: ZacharySpeak, ExtraBig: true]
+    <c={IMPORTANT_HEX}>ХТО ВІДПОВІДАЛЬНИЙ ЗА ЦЕ?</c>
+    Garbanzo Quest створено Zachary Gardner (мною).
+
+    <c={IMPORTANT_HEX}>ХТО ПІДТРИМАВ?</c>
+    {SUPPORTERS_1}...
+
+    <c={IMPORTANT_HEX}>ЩЕ БІЛЬШЕ ТИХ ХТО ПІДТРИМАВ?</c>
+    {SUPPORTERS_2}.
+
+    <c={IMPORTANT_HEX}>ПЛЕЙТЕСТЕРИ?</c>
+    {PLAYTESTERS_1}...
+
+    <c={IMPORTANT_HEX}>ЩЕ БІЛЬШЕ ПЛЕЙТЕСТЕРІВ?</c>
+    {PLAYTESTERS_2}.
+
+    <c={IMPORTANT_HEX}>ШТУКИ ВИКОРИСТАНІ?</c>
+    MonoGame фреймворк ігрового рушія,
+    Aseprite інструмента для піксель-арту,
+    MilkyTracker чіптюн трекер,
+    AAP-SPLENDOR128 палітра кольорів,
+    Monogram шрифт,
+    PICO-8 шрифт
+
+    <c={IMPORTANT_HEX}>ХТОСЬ ЩЕ?</c>
+    Ти! Дякую за те що граєш мою гру!
+
+# Upgrade
+
+*UPGRADE.START =
+    Зайти всередину?
+
+    ?Q
+        Ні. => UPGRADE.No
+        Так. => UPGRADE.YES
+
+*UPGRADE.YES =
+    Хороша ідея.
+
+    @A1
+
+    ?B
+        (!HAS_DOUBLE_JUMP) => UPGRADE.DOUBLE
+        => UPGRADE.NORMAL
+
+*UPGRADE.DOUBLE =
+    Ти відчуваєш себе трішки інакше.
+
+*UPGRADE.NORMAL =
+    Ти відчуваєш себе нормальним знову.
+
+*UPGRADE.NO =
+    Справді?
+
+# CHECKLISTIO
+
+%CHECKLISTIO.1 =
+    гей! тобі подобаються списки???
+
+    якщо ти теж <s=2>БОЖЕВІЛЬНИЙ</s> і <s=3>ЛЮБИШ СПИСКИ</s> то <s=4>БЛАГАЮ ПОДИВИСЯ НА НИХ!</s>
+
+CHECKLISTIO.2 =
+    <s=4>СПОГЛЯДАЙ МОЇ СПИСКИ!!</s>
+
+# REST
+
+%REST =
+    ?B
+       (P1_CHICKPEA) => REST.CHICKPEA
+       (P1_PINTO) => REST.PINTO
+       (P1_FRANKIE) => REST.FRANKIE
+       => REST.GENERIC
+
+*REST.CHICKPEA =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Життя було доволі нудним з тих пір як я врятував світ.
+
+    Але це добре, нудьга це те за що ми боремось!
+
+    Крім того, у мене багато відвідувачів.
+
+    Проте, іноді, я питаю себе, чи пропустив я щось...
+
+    => REST.C
+
+*REST.PINTO =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Порятунок Світу - це було доволі круто з мого боку. Можеш не дякувати, Світе.
+
+    Зараз усе доволі спокійно, здається...
+
+    Іноді думаю: може, ще залишилося щось класне, що я міг би зробити?
+
+    => REST.C
+
+*REST.FRANKIE =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Я гавкав на все, і тепер Світ врятовано!
+
+    Люблю гавкати!
+    
+    <s=6>НА ВСЕ!</s>
+
+    Проте, іноді я думаю, чи не було ще чогось на що я міг би гавкнути?
+
+    => REST.C
+
+*REST.GENERIC =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Іноді я думаю, чи є щось, що я пропустив під час моїх пригод...
+
+    => REST.C
+
+*REST.C =
+    ?Q
+        Ні. => REST.NO
+        Можливо? => REST.YES
+
+REST.2 =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Чи пропустив я що-небудь протягом моїх пригод?
+
+    ?Q
+        Ні. => REST.NO
+        Можливо? => REST.YES
+
+*REST.YES =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Хмм.... Чи пропустив я щось...?
+
+    @A1
+
+*REST.NO =
+    ?B
+    (P1_CHICKPEA) => REST.NO_CHICKPEA
+    (P1_PINTO) => REST.NO_PINTO
+    (P1_FRANKIE) => REST.NO_FRANKIE
+    => REST.NO_GENERIC
+
+*REST.NO_CHICKPEA =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Ах! Яка дурня. Я мушу дозволити собі перепочити.
+
+*REST.NO_PINTO =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Бомбезно. Єдина крута річ, яку я тепер можу зробити - це розслабитись. Так.
+
+*REST.NO_FRANKIE =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Так! Це просто <s=6>НЕМОЖЛИВО!</s> Немає абсолютно нічого, що я пропустив! Я <s=10>ХОРОШИЙ ХЛОПЧИК</s> врешті решт!
+
+*REST.NO_GENERIC =
+    [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
+    Нє.
+
+REST.FASTER_LIBERATION = У спогадах...

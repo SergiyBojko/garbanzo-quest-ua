@@ -1,0 +1,143 @@
+MAGIC_DOLLAR_DOLLARS_ALL_DESCRIPTION = Зроби все.
+MAGIC_DOLLAR_BOSS_ROCKY_DESCRIPTION = Здолай Каменюку.
+MAGIC_DOLLAR_BOSS_DOC_DESCRIPTION = Здолай Доктора Професора Науку.
+MAGIC_DOLLAR_BOSS_FACE_DESCRIPTION = Здолай Прото-Провіденс.
+MAGIC_DOLLAR_BOSS_MUSHROOM_DESCRIPTION = Здолай Руйнівного Ангела.
+MAGIC_DOLLAR_BOSS_DOC_TWO_DESCRIPTION = Здолай Доктора Професора Науку знову.
+MAGIC_DOLLAR_BOSS_MUTATION_DESCRIPTION = Вилікуй жахливу недугу.
+MAGIC_DOLLAR_BOSS_DOC_THREE_DESCRIPTION = Здолай Доктора Професора Науку ще один раз.
+MAGIC_DOLLAR_BOSS_BILLI_DESCRIPTION = Здолай Біллі' Боунса і ВРЯТУЙ СВІТ!
+MAGIC_DOLLAR_BOSS_PROVIDENCE_DESCRIPTION = Знищ саму ідею жадібності.
+MAGIC_DOLLAR_ACCESSORY_FRAGMENTS_ALL_DESCRIPTION = Знайди всі ФРАГМЕНТИ КАСТОМІЗАЦІЇ.
+MAGIC_DOLLAR_BADGE_FRAGMENTS_ALL_DESCRIPTION = Знайди всі ФРАГМЕНТИ СИЛИ.
+MAGIC_DOLLAR_FRIENDS_ALL_DESCRIPTION = Знайди всіх Друзів.
+MAGIC_DOLLAR_COMPLETE_ALL_DESCRIPTION = Пройди всі рівні.
+MAGIC_DOLLAR_COMPLETE_WORLD1_DESCRIPTION = Пройди всі рівні у Світі 1.
+MAGIC_DOLLAR_COMPLETE_WORLD2_DESCRIPTION = Пройди всі рівні у Світі 2.
+MAGIC_DOLLAR_COMPLETE_WORLD3_DESCRIPTION = Пройди всі рівні у Світі 3.
+MAGIC_DOLLAR_COMPLETE_WORLD4_DESCRIPTION = Пройди всі рівні у Світі 4.
+MAGIC_DOLLAR_COMPLETE_WORLD5_DESCRIPTION = Пройди всі рівні у Світі 5.
+MAGIC_DOLLAR_COMPLETE_WORLD6_DESCRIPTION = Пройди всі рівні у Світі 6.
+MAGIC_DOLLAR_COMPLETE_WORLD7_DESCRIPTION = Пройди всі рівні у Світі 7.
+MAGIC_DOLLAR_COMPLETE_WORLD_C_DESCRIPTION = Пройди всі рівні у Світі C.
+MAGIC_DOLLAR_NO_HIT_ALL_DESCRIPTION = Пройди всі рівні без отримання шкоди.
+MAGIC_DOLLAR_NO_HIT_WORLD1_DESCRIPTION = Пройди всі рівні у Світі 1 без отримання шкоди.
+MAGIC_DOLLAR_NO_HIT_WORLD2_DESCRIPTION = Пройди всі рівні у Світі 2 без отримання шкоди.
+MAGIC_DOLLAR_NO_HIT_WORLD3_DESCRIPTION = Пройди всі рівні у Світі 3 без отримання шкоди.
+MAGIC_DOLLAR_NO_HIT_WORLD4_DESCRIPTION = Пройди всі рівні у Світі 4 без отримання шкоди.
+MAGIC_DOLLAR_NO_HIT_WORLD5_DESCRIPTION = Пройди всі рівні у Світі 5 без отримання шкоди.
+MAGIC_DOLLAR_NO_HIT_WORLD6_DESCRIPTION = Пройди всі рівні у Світі 6 без отримання шкоди.
+MAGIC_DOLLAR_NO_HIT_WORLD7_DESCRIPTION = Пройди всі рівні у Світі 7 без отримання шкоди.
+MAGIC_DOLLAR_NO_HIT_WORLD_C_DESCRIPTION = Пройди всі рівні у Світі C без отримання шкоди.
+
+# 100%
+MAGIC_DOLLAR_DOLLARS_ALL =
+    Оце так! Це все! Ти знайшов всі долари в грі!
+    
+    Що ж... тримай долар!
+
+    ...
+
+    Що? Ти очікував чогось іншого?
+
+    Добре, це не багато, але чому б тобі не перевірити головне меню?
+
+    Ти можеш помітити щось незвичайне.
+
+    Що ж... бувай!
+
+# Bosses
+MAGIC_DOLLAR_BOSS_ROCKY =
+    Ого! Ти справді показав Каменюці де раки зимують! Тримай долар!
+
+MAGIC_DOLLAR_BOSS_DOC =
+    Woah! Ти справді показав Доктору Професору Науці де раки зимують! Тримай долар!
+
+MAGIC_DOLLAR_BOSS_FACE =
+    Woah! Ти справді показав Прото-Провіденсу де раки зимують! Тримай долар!
+
+MAGIC_DOLLAR_BOSS_MUSHROOM =
+    Woah! Ти справді показав Руйнівному Ангелу де раки зимують! Тримай долар!
+
+MAGIC_DOLLAR_BOSS_DOC_TWO =
+    Nice! Ти справді показав Доктору Професору Науці де раки зимують знову! Тримай долар!
+
+MAGIC_DOLLAR_BOSS_MUTATION =
+    Woah! Ти справді показав цій жахливій недузі де раки зимують! Тримай долар!
+
+MAGIC_DOLLAR_BOSS_DOC_THREE =
+    Woah! Ти справді показав Доктору Професору Науці де раки зимують ще раз! Тримай долар!
+
+MAGIC_DOLLAR_BOSS_BILLI =
+    Ось тобі на! Ти здолав БІЛЛІ' БОУНСА і врятував світ? Тримай долар!
+
+MAGIC_DOLLAR_BOSS_PROVIDENCE =
+    Нахабство! Ти знищив саму ідею жадібності? Тримай долар!
+
+# Fragments
+MAGIC_DOLLAR_ACCESSORY_FRAGMENTS_ALL =
+    Ого! Ти знайшов кожен {ACCESSORY_FRAGMENT_NAME}! Тримай долар!
+
+MAGIC_DOLLAR_BADGE_FRAGMENTS_ALL =
+    Ого! Ти знайшов кожен {BADGE_FRAGMENT_NAME}! Тримай долар!
+
+MAGIC_DOLLAR_FRIENDS_ALL =
+    Вау! Ти знайшов всіх ДРУЗІВ! Тримай долар!
+
+# Complete
+MAGIC_DOLLAR_COMPLETE_ALL =
+    Га? Ти пройшов кожен рівень в ГРІ? Тримай долар!
+
+MAGIC_DOLLAR_COMPLETE_WORLD1 =
+    Га? Ти пройшов кожен рівень в Світі 1? Тримай долар!
+
+MAGIC_DOLLAR_COMPLETE_WORLD2 =
+    Га? Ти пройшов кожен рівень в Світі 2? Тримай долар!
+
+MAGIC_DOLLAR_COMPLETE_WORLD3 =
+    Га? Ти пройшов кожен рівень в Світі 3? Тримай долар!
+
+MAGIC_DOLLAR_COMPLETE_WORLD4 =
+    Га? Ти пройшов кожен рівень в Світі 4? Тримай долар!
+
+MAGIC_DOLLAR_COMPLETE_WORLD5 =
+    Га? Ти пройшов кожен рівень в Світі 5? Тримай долар!
+
+MAGIC_DOLLAR_COMPLETE_WORLD6 =
+    Га? Ти пройшов кожен рівень в Світі 6? Тримай долар!
+
+MAGIC_DOLLAR_COMPLETE_WORLD7 =
+    Га? Ти пройшов кожен рівень в Світі 7? Тримай долар!
+
+MAGIC_DOLLAR_COMPLETE_WORLD_C =
+    Га? Ти пройшов кожен рівень в Світі C? Тримай долар!
+
+
+# No hit
+MAGIC_DOLLAR_NO_HIT_ALL =
+    Га? Ти пройшов кожен рівень в ГРІ без отримання шкоди? Тримай долар!
+
+MAGIC_DOLLAR_NO_HIT_WORLD1 =
+    Га? Ти пройшов кожен рівень в Світі 1 без отримання шкоди? Тримай долар!
+
+MAGIC_DOLLAR_NO_HIT_WORLD2 =
+    Га? Ти пройшов кожен рівень в Світі 2 без отримання шкоди? Тримай долар!
+
+MAGIC_DOLLAR_NO_HIT_WORLD3 =
+    Га? Ти пройшов кожен рівень в Світі 3 без отримання шкоди? Тримай долар!
+
+MAGIC_DOLLAR_NO_HIT_WORLD4 =
+    Га? Ти пройшов кожен рівень в Світі 4 без отримання шкоди? Тримай долар!
+
+MAGIC_DOLLAR_NO_HIT_WORLD5 =
+    Га? Ти пройшов кожен рівень в Світі 5 без отримання шкоди? Тримай долар!
+
+MAGIC_DOLLAR_NO_HIT_WORLD6 =
+    Га? Ти пройшов кожен рівень в Світі 6 без отримання шкоди? Тримай долар!
+
+MAGIC_DOLLAR_NO_HIT_WORLD7 =
+    Га? Ти пройшов кожен рівень в Світі 7 без отримання шкоди? Тримай долар!
+
+MAGIC_DOLLAR_NO_HIT_WORLD_C =
+    Га? Ти пройшов кожен рівень в Світі C без отримання шкоди? Тримай долар!
+

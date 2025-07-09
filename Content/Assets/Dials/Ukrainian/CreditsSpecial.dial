@@ -1,7 +1,7 @@
 # Full credits
 
-CREDITS_SPECIAL.1 = Now presenting the cast
-CREDITS_SPECIAL.1a = of Garbanzo Quest!
+CREDITS_SPECIAL.1 = А тепер представляємо склад
+CREDITS_SPECIAL.1a = Garbanzo Quest!
 
 CREDITS_SPECIAL.SPACE_1 = ...
 
@@ -88,8 +88,8 @@ CREDITS_SPECIAL.SPACE_9c = ...
 CREDITS_SPECIAL.SPACE_9d = ...
 CREDITS_SPECIAL.SPACE_9e = ...
 
-CREDITS_SPECIAL.END_3 = Thank you so much, {FILENAME},
-CREDITS_SPECIAL.END_4 = for playing my game.
+CREDITS_SPECIAL.END_3 = Щиро вдячний тобі, {FILENAME},
+CREDITS_SPECIAL.END_4 = за те, що грав мою гру.
 
 CREDITS_SPECIAL.SPACE_9d = ...
 CREDITS_SPECIAL.SPACE_9e = ...
@@ -111,7 +111,7 @@ CREDITS_SPECIAL.SPACE_9t = ...
 CREDITS_SPECIAL.SPACE_9u = ...
 CREDITS_SPECIAL.SPACE_9v = ...
 
-CREDITS_SPECIAL.VACATION = Well, that was tough!
-CREDITS_SPECIAL.VACATION_2 = Time for {HERO}
-CREDITS_SPECIAL.VACATION_3 = and their friends to get back to their vacation!
+CREDITS_SPECIAL.VACATION = Що ж, це було важко!
+CREDITS_SPECIAL.VACATION_2 = Час для {HERO}
+CREDITS_SPECIAL.VACATION_3 = та його друзів повернутися назад до їх відпустки!
 

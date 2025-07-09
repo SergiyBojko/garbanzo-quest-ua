@@ -1,0 +1,727 @@
+# OPENING DEVELOPER CREDIT
+
+TITLE_CREDIT_1 = Це зробив zagawee :]
+TITLE_CREDIT_2 = Це зробив zagawee :D
+TITLE_CREDIT_3 = Це зробив zagawee :3
+
+# NAMES
+
+RANDOM_NAME_1 = СМЕРДЮХ
+RANDOM_NAME_2 = КРУТЕЛИК
+RANDOM_NAME_3 = ДРУГАН
+RANDOM_NAME_4 = ДРУЗЯКА
+RANDOM_NAME_5 = ЧУВАК
+RANDOM_NAME_6 = НЕРОБА
+RANDOM_NAME_7 = БЕШКЕТНИК
+RANDOM_NAME_8 = ПРОЙДИСВІТ
+RANDOM_NAME_9 = ШИБЕНИК
+RANDOM_NAME_10 = ШМАРКАЧ
+RANDOM_NAME_11 = ЧЕМПІОН
+RANDOM_NAME_12 = БРАТАН
+RANDOM_NAME_13 = ПЕРДУН
+RANDOM_NAME_14 = ЛЕДАЩО
+RANDOM_NAME_15 = ПОНЮХАЙКО
+
+# DIFFICULTY RANKS
+
+RANK_NORMAL = НОРМАЛЬНИЙ
+RANK_EASY = РОЗСЛАБЛЕНИЙ
+RANK_VERY_EASY = СПОКІЙНИЙ
+RANK_SUPER_EASY = МИРНИЙ
+RANK_INCREDIBLY_EASY = ПРОСТІШЕ ПРОСТОГО
+
+RANK_ULTRA = УЛЬТРА
+RANK_HYPER = ГІПЕР
+RANK_MEGA = СТРІМКИЙ
+RANK_SUPER = ШВИДКИЙ
+RANK_COOL = ЖВАВИЙ
+RANK_CRUEL = БОЛІСНИЙ
+RANK_TOUGH = СКЛАДНИЙ
+RANK_PERFECTO = ПЕРФЕКТО
+RANK_PERFECT = ІДЕАЛЬНИЙ
+RANK_EXCELLENT = МЕГА
+RANK_AMAZING = ВРАЖАЮЧИЙ
+RANK_AWESOME = ЧУДОВИЙ
+RANK_GREAT = СУПЕР
+RANK_GOOD = ГАРНИЙ
+RANK_SHARED = x2
+RANK_WEIRD = ДИВНИЙ
+
+# MENU
+
+MENU_PLAY = Грати!
+MENU_RESUME = Продовжити
+MENU_ACCEPT = Прийняти
+MENU_DRAW = Малювати
+MENU_ERASE = Стерти
+MENU_FILL = Заповнити
+MENU_DENY = Відмовити
+MENU_PROCEED = Продовжити
+MENU_START = Почати
+MENU_CHOOSE = Вибрати
+MENU_TRUE = Так
+MENU_FALSE = Ні
+MENU_EXTRAS = Екстра
+MENU_OPTIONS = Параметри
+MENU_CHECKLIST = Список
+MENU_CREDITS = Автори
+MENU_AUDIO = Аудіо
+MENU_DISPLAY = Дисплей
+MENU_SKIP = Пропуск (Утримуй)
+MENU_SKIPPING = Пропускаємо
+MENU_INPUT = Керування
+MENU_BACK = ← Назад
+MENU_BACK_NO_ARROW = Назад
+MENU_DONE = ← Готово
+MENU_DONE_NO_ARROW = Готово
+MENU_APPEARANCE = Вигляд
+MENU_TWEAKS = Підкрутки
+MENU_QUIT = Вийти
+MENU_LANGUAGE = Мови
+AFFIRM_QUIT = Ти хочеш ВИЙТИ?
+MENU_RETRY = Перепройти Кімнату
+MENU_TRANSPORT = Телепорт до іншого Гравця
+MENU_RETURN_OVERWORLD = Назад у Світ
+AFFIRM_RETURN_OVERWORLD = Ти хочеш ВЕРНУТИСЯ У СВІТ?
+MENU_RETURN_HOME = Назад Додому
+AFFIRM_RETURN_HOME = Ти хочеш ВЕРНУТИСЯ ДОДОМУ?
+MENU_RETURN_JAIL = Назад у В'язницю
+AFFIRM_RETURN_JAIL = Ти хочеш ВЕРНУТИСЯ У В'ЯЗНИЦЮ?
+MENU_RETURN_REST = Назад у Відпустку
+AFFIRM_RETURN_REST = Ти хочеш ВЕРНУТИСЯ У ВІДПУСТКУ?
+MENU_RETURN_TITLE = Назад до Головного Меню
+AFFIRM_RETURN_TITLE = Ти хочеш ВЕРНУТИСЯ У ГОЛОВНЕ МЕНЮ?
+MENU_EXIT = Вийти
+AFFIRM_EXIT = Вийти?
+AFFIRM_EXIT_NEVERMIND = Забудь
+AFFIRM_EXIT_TITLE = Назад до Головного Меню
+AFFIRM_EXIT_GAME = Вийти з Гри
+MENU_SWITCH_TWO = Режим Двох Гравців
+MENU_SWITCH_ONE = Режим Одного Гравція
+MENU_FEEDBACK = Відгук (Відкриє Браузер)
+MENU_MASTER_VOLUME = Загальна Гучність
+MENU_SFX_VOLUME = Гучність Ефектів
+MENU_MUSIC_VOLUME = Гучність Музики
+MENU_FULLSCREEN = Повний Екран
+MENU_WINDOW_SCALE = Масштаб Вікна
+MENU_FPS = FPS
+MENU_VSYNC = VSync
+MENU_INTEGER_SCALING = Цілочисельне Масш.
+MENU_PIXEL_PERFECT = Піксель-Ідеально
+MENU_VIRTUAL_WINDOW_GRACE = Рамка Екрану
+MENU_SCREEN_SAVER_WAIT = Заставка
+MENU_NEVER = Ніколи
+MENU_MINUTE = Хвилина
+MENU_MINUTES = Хвилини
+MENU_SCREEN_SHAKE = Тремтіння Екрану
+MENU_TEXT_EFFECTS = Ефекти Тексту
+MENU_PROMPTS = Дії
+MENU_PROMPTS_NONE = Жодних
+MENU_PROMPTS_MENU = Меню
+MENU_PROMPTS_SPECIAL = Всі
+MENU_SHOW_HEALTH = Показати Здоров'я
+MENU_SHOW_HEALTH_EVERYONE = Всі
+MENU_SHOW_HEALTH_ENEMIES = Вороги
+MENU_SHOW_HEALTH_BOSSES = Боси
+MENU_SHOW_HEALTH_NOBODY = Ніхто
+MENU_SHOW_TIMER = Показати Таймер
+MENU_FASTER_CUTSCENES = Швидші Катсцени
+MENU_HEALTH = Здоров'я
+MENU_STRENGTH = Сила
+MENU_RESET_VALUES = Скинути Значення
+MENU_GAME_SPEED = Швидкість Гри
+MENU_RESPAWN = Відродження
+MENU_RESPAWN_ROOM = Кімната
+MENU_RESPAWN_LEVEL = Рівень
+MENU_RESPAWN_BEGINNING = Початок
+MENU_ENABLE_HEART_DROPS = Випадіння сердець
+MENU_SHARE_HITS = Спільне здоров'я для 2-х
+MENU_RECOVER = Відновлення
+MENU_RECOVER_ROOM = Кімната
+MENU_RECOVER_LEVEL = Рівень
+MENU_RECOVER_NEVER = Ніколи
+MENU_RESET_INPUTS = Натисни (Tab) щоб Скинути Клавіші
+MENU_NO_KEYBOARD = {!0} не використовує Клавіатуру.
+MENU_NO_GAMEPAD = {!0} не використовує Геймпад.
+MENU_KEYBOARD_INPUT_CONFIG = Налаштування Клавіатури
+MENU_GAMEPAD_INPUT_CONFIG = Налаштування Геймпаду
+MENU_CHOOSE_INPUT_SOURCES = Обери Джерела Керування
+AFFIRM_DELETE_PROFILE = Ти хочеш видалити цей профіль?
+MENU_PROFILE = Профіль
+MENU_RENAME = Перейменувати
+MENU_SELECT = Вибрати
+MENU_AUTO = Авто
+MENU_INPUT_PROMPTS = Дії
+MENU_AXIS_DEADZONE = Мертва зона стіків
+MENU_TRIGGER_DEADZONE = Мертва зона тригерів
+MENU_RUMBLE = Вібрація
+MENU_UP = Вгору
+MENU_DOWN = Вниз
+MENU_LEFT = Вліво
+MENU_RIGHT = Вправо
+MENU_JUMP = Стрибок
+MENU_SPIT = Плювок
+MENU_MOVE = Рух
+MENU_LOOK_UP_DOWN = Дивитися Вгору/Вниз
+MENU_SPECIAL_ONE = Здібність Значка
+MENU_SPECIAL_TWO = Швидка Зміна
+MENU_SPECIAL_TWO_EXPERT = Здібність Значка 2
+MENU_MOONWALK = Місячна Ходьба
+MENU_BADGE_STYLE = Стиль Значка
+MENU_BADGE_STYLE_NORMAL = Нормальний
+MENU_BADGE_STYLE_EXPERT = Експерт
+MENU_MOONWALK_STYLE = Стиль Місячної Ходьби
+MENU_MOONWALK_STYLE_HOLD = Утримання
+MENU_MOONWALK_STYLE_TOGGLE = Перемикання
+MENU_PAUSE = Пауза
+MENU_ACCEPT_SAME_AS_JUMP = Прийняти те ж що Стрибок
+MENU_DENY_SAME_AS_SPIT = Відмовити те ж що Плювок
+MENU_RESET_SAVE = Почати Спочатку
+AFFIRM_RESET_SAVE = ВИДАЛИТИ ПРОГРЕС і ПОЧАТИ СПОЧАТКУ?
+MENU_ENABLE_TWEAKS = Показати Меню Підкруток
+MENU_MOVE_FILE_TOP = На Гору
+MENU_DUPLICATE_FILE = Копіювати
+MENU_DELETE_FILE = Видалити
+AFFIRM_DELETE_FILE = Ти дійсно хочеш Видалити {!0}?
+MENU_GO = Вперед!
+MENU_SETTINGS = Налаштування
+MENU_ENABLE_DEV = Інструменти Розробника: {!0}
+MENU_ENABLE_SPEEDRUN = Кнопка Скидання: {!0}
+FILE_ALL_BADGES = УЗ
+FILE_DOUBLE_JUMP = ПС
+FILE_LOCK_WARPS = ЗВ
+FILE_FASTER_CUTSCENES = ШК
+FILE_LOCK_WARPS = ЗВ
+
+DUPLICATE_WARNING_CONTINUE = (НАТИСНИ ЩОСЬ щоб ПРОДОВЖИТИ)
+DUPLICATE_WARNING_TITLE = УВАГА! ВИЯВЛЕНО ДУБЛІКАТИ:
+
+TITLE_BUILDER = ХАБ
+MENU_BUILDER = Хаб
+MENU_RETURN_BUILDER = Назад у Хаб
+AFFIRM_RETURN_BUILDER = Ти дійсно хочеш вернутись у ХАб?
+TITLE_WEB = МЕРЕЖЕВІ РІВНІ
+MENU_WEB = Мережеві Рівні
+TITLE_LEVELS_LOCAL_LEVELS = ЛОКАЛЬНІ РІВНІ
+MENU_LEVELS_LOCAL_LEVELS = Локальні Рівні
+MENU_LEVELS_PLAYING_AS = Граєш як: {!0}
+MENU_LEVELS_FILE_SELECT = ВИБІР ФАЙЛУ
+
+PLAYER_ONE = 1-й Гравець
+PLAYER_TWO = 2-й Гравець
+TITLE_PLAYER_ONE = 1-й ГРАВЕЦЬ
+TITLE_PLAYER_TWO = 2-й ГРАВЕЦЬ
+
+MENU_SWITCH_1 = Перемикаємось до 2-х гравців...
+MENU_SWITCH_PLAYER_ONE = Привіт, 1-й Гравець!
+MENU_SWITCH_PLAYER_TWO = І тобі, 2-й Гравець!
+MENU_SWITCH_2 = УТРИМУЙ КНОПКУ НА ГЕЙМПАДІ ЩОБ ДОЄДНАТИСЬ!
+MENU_SWITCH_3 = (Натисни Back щоб відмінити.)
+ASSIGN_CONTROLLER = Прив'язуємо до Геймпаду...
+ASSIGN_CONTROLLER_SHARE = УВАГА: Це контролер 1-го Гравця. Ти хочеш ним ділитися? Якщо так, затисни хоча б 2 кнопки.
+ASSIGN_KEYBOARD = Прив'язуємо до Клавіатури...
+ASSIGN_KEYBOARD_SHARE = УВАГА: Це клавіатура 1-го Гравця. Ти хочеш нею ділитися? Якщо так, затисни хоча б 2 клавіші.
+
+TITLE_PAUSED = ПАУЗА
+TITLE_LANGUAGE = МОВА
+TITLE_TWEAKS = ПІДКРУТКИ
+TITLE_OPTIONS = ПАРАМЕТРИ
+TITLE_AUDIO_OPTIONS = ПАРАМЕТРИ АУДІО
+TITLE_DISPLAY_OPTIONS = ПАРАМЕТРИ ДИСПЛЕЮ
+TITLE_APPEARANCE_OPTIONS = ПАРАМЕТРИ ЗОБРАЖЕННЯ
+TITLE_INPUT_OPTIONS = ПАРАМЕТРИ КЕРУВАННЯ
+TITLE_GAMEPAD_INPUT_CONFIG = НАЛАШТУВАННЯ ГЕЙМПАДУ
+TITLE_KEYBOARD_INPUT_CONFIG = НАЛАШТУВАННЯ КЛАВІАТУРИ
+TITLE_PROFILE_SELECT = ВИБІР ПРОФІЛЮ
+TITLE_FILE_EXTRA = {!0} Налаштування
+
+TOAST_FEEDBACK = Відкриваємо посилання у браузері, це може зайняти трохи часу...
+TOAST_SWITCH_TWO = Переключено на 2-х гравців!
+TOAST_SWITCH_ONE = Переключено на 1-го гравця.
+TOAST_RESET_TWEAKS = Підкрутки скинуто.
+TOAST_INVALID_BUTTONS = потрібно перепризначити кнопки.
+TOAST_INPUT_PROFILE_DELETED = Профіль КЕРУВАННЯ видалено.
+TOAST_TWEAKS_ENABLED = Меню Підкруток тепер доступне в Параметрах.
+TOAST_TWEAKS_DISABLED = Меню Підкруток приховано. (Змінені значення залишаються.)
+TOAST_TWEAKS_DISABLED_QUICK = Меню Підкруток вимкнено. (Змінені значення залишаються.)
+TOAST_FILE_MOVED = {!0} переміщено вгору
+TOAST_FILE_DUPLICATED = {!0} скопійовано
+TOAST_DEV_ENABLED = Натисніть Escape на Клавіатурі, щоб відкрити Інструменти Розробника.
+TOAST_DEV_DISABLED = Інструменти Розробника вимкнено.
+TOAST_SPEEDRUN_REQUIREMENTS = Знайди 10 або більше друзів в іншому файлі
+TOAST_SPEEDRUN_ENABLED = Кнопки Скидання тепер видно в деяких меню.
+TOAST_SPEEDRUN_DISABLED = Кнопки Скидання приховано
+TOAST_DELETE_FILE = Прощавай, {!0}.
+TOAST_NEW_GAMEPAD = Підключено новий Геймпад на Порту {!0}
+TOAST_GAMEPAD_LOST = Геймпад на Порту {!0} від'єднано
+TOAST_ZONE_MISSING = Зони тут немає.
+TOAST_ALL_BADGES_REQUIREMENTS = Знайдіть їх усі в іншому файлі.
+TOAST_MAX_FILE_COUNT = Досягнуто максимум файлів збереження ({!0}). Видаліть один, щоб звільнити місце.
+TOAST_RESET_INPUTS = Керування скинуто.
+TOAST_MAX_INPUT_PROFILE = Досягнуто максимуму Профілів Керування ({!0}). Видаліть один, щоб звільнити місце.
+TOAST_NEW_INPUT_PROFILE = Створено новий профіль Геймпаду: {!0}
+TOAST_EDIT_LOOK_ONLY = Зміни не будуть збережені.
+TOAST_EDIT_ZONE_LOADED = Завантажено зону: {!0}.
+TOAST_EDIT_NO_SNAPSHOT_BEFORE = Знімка до цього немає.
+TOAST_EDIT_NO_SNAPSHOT_AFTER = Знімка після цього немає.
+TOAST_EDIT_SAVE_FILE = Збережено у файл: {!0}.json.
+TOAST_EDIT_SAVE_ZONE = Збережено Зону: {!0}.
+TOAST_EDIT_ERROR_SAVE_OVER_RELEASE = Неможливо зберегти поверх Вихідної Зони у Релізі.
+TOAST_EDIT_NO_UNDO = Нічого скасовувати.
+TOAST_EDIT_NO_REDO = Нічого повторювати.
+TOAST_EDIT_UNDO = Скасовано {!0}
+TOAST_EDIT_REDO = Повторено {!0}
+TOAST_EDIT_HISTORY_MULTIPLE = Кілька
+TOAST_EDIT_HISTORY_CHECKBOX_CHANGE = Перемикач: Зміна
+TOAST_EDIT_HISTORY_DROPDOWN_CHANGE = Список: Зміна
+TOAST_EDIT_HISTORY_INPUT_CHANGE = Керування: Зміна
+TOAST_EDIT_HISTORY_ERASE_CELL = Стерти Комірку
+TOAST_EDIT_HISTORY_CREATE_CELL = Створити Комірку
+TOAST_EDIT_HISTORY_SCALE_ROOM_UNDO = Скасувати Масш. Кімнати
+TOAST_EDIT_HISTORY_SCALE_ROOM_MOVE_CELL = Масш. Кімнати: Перемістити Комірку
+TOAST_EDIT_HISTORY_SCALE_ROOM_ERASE_CELL = Масш. кімнати: Перемістити Комірку (стерти)
+TOAST_EDIT_HISTORY_SCALE_ROOM_REDO = Повторити Масш. кімнати
+TOAST_EDIT_HISTORY_MOVE_ROOM = Перемістити Кімнату
+TOAST_EDIT_HISTORY_DELETE_ROOM = Видалити Кімнату
+TOAST_EDIT_HISTORY_CREATE_ROOM = Створити Кімнату
+TOAST_UNLOCK_CHECKLIST = Журнал тепер можна переглянути у Світі!
+
+OPENING_TWEAKS = Відкриваємо Підкрутки...
+
+NEGATION_1 = Ні.
+NEGATION_2 = Ніт.
+NEGATION_3 = Та ні.
+NEGATION_4 = Ніколи.
+NEGATION_5 = Ні, сер.
+NEGATION_6 = Взагалі ні.
+NEGATION_7 = Нізащо.
+NEGATION_8 = Абсолютно ні.
+NEGATION_9 = Ненавиджу цю ідею.
+NEGATION_10 = Нє-а.
+NEGATION_11 = Ні, дякую.
+NEGATION_12 = Я б краще утримався.
+NEGATION_13 = Думаю, що ні.
+NEGATION_14 = Навіть через мільярд років - ні.
+NEGATION_15 = Навіть за мільярд доларів - ні.
+NEGATION_16 = Фу, тільки не це.
+
+AFFIRMATION_1 = Так!
+AFFIRMATION_2 = Ага!
+AFFIRMATION_3 = Авжеж!
+AFFIRMATION_4 = Точно!
+AFFIRMATION_5 = Аж бігом!
+AFFIRMATION_6 = З радістю!
+AFFIRMATION_7 = Без сумніву!
+AFFIRMATION_8 = Звичайно!
+AFFIRMATION_9 = Чудова ідея!
+AFFIRMATION_10 = Ого, так!
+AFFIRMATION_11 = Ще б пак!
+AFFIRMATION_12 = Однозначно!
+AFFIRMATION_13 = Повністю згоден!
+AFFIRMATION_14 = Безперечно!
+AFFIRMATION_15 = Звучить добре!
+AFFIRMATION_16 = Саме так!
+AFFIRMATION_17 = Тисячу разів - так!
+AFFIRMATION_18 = Будь ласка!
+AFFIRMATION_19 = Беззаперечно!
+
+GAME_OVER_1 = КІНЕЦЬ ГРИ
+GAME_OVER_2 = КІНЕЦЬ ГРИ
+GAME_OVER_3 = КІНЕЦЬ ГРИ
+GAME_OVER_4 = КІНЕЦЬ ГРИ
+
+# BASIC
+
+GARBANZO_QUEST = GARBANZO QUEST!
+HELP = Допоможіть!
+NOPE = Нє-а
+NOT_NOW = Не зараз
+THANKS = Дякую!
+AGAIN = Знову?
+NOT_IN_DEMO = Not in Demo :(
+GENIUS = ГЕНІАЛЬНО!
+STUPID = ТУПО?
+NO_HIT_SURE = Ти впевнений?
+NO_HIT_REALLY = Ого, Дійсно?
+BREAK_THE_TARGETS = Знищи Цілі!
+TIME_HOURS = г
+TIME_MINUTES = х
+TIME_SECONDS = с
+DEBT = Борг
+
+# Used when refering to both player characters. "Garbanzo and Pinto"
+AND = і
+# Used in {WAS} and {IS}, typically in the Chapter End text. Changes based on the amount of players.
+GENERAL_WERE = змогли
+GENERAL_WAS = зміг
+GENERAL_ARE = повернулись
+GENERAL_IS = повернувся
+
+# LABELS
+
+FILENAME = {@name}
+# In One Player mode HERO will be the name the selected character (ex. Garbanzo). 
+# In Two Player HERO will be both characters' names joined with an "and" (ex. Garbanzo and Pinto)
+HERO = {@hero}
+WAS = {@was}
+IS = {@is}
+
+QUEST = {@quest}
+CASH = <c=#c4f129>ГРОШІ</c>
+ABRA_CADAVER = <c=#c4f129>АБРА-КАДАВР</c><i=Trademark,1,16,14,14,#c4f149></i>
+ABRA_CADABRA = <c=#8fd032>АБРА-КАДАБРА</c><i=Trademark,1,16,14,14,#8fd032></i>
+SECRET_CODE = {@secret_code}
+BILLI_BONES = <c=#97edca>БІЛЛІ' БОУНС</c>
+TAX_MAN = <c=#97edca>ПОДАТ КІВЕЦЬ</c>
+FREEDOMLAND = <c=#f8c53a>ФРІДОМЛЕНД</c>
+NEW_FREEDOMLAND = <c=#fff089>НЬЮ ФРІДОМЛЕНД</c>
+FOREVER_WINTER = <c=#4572e3>ВІЧНА ЗИМА</c>
+DISGUSTS = {@disgust}
+HIT = {@hit}
+SPIT = {@spit}
+JUMP = {@jump}
+FRIENDS = {@friends}
+THINGS = {@things}
+HURTS = {@hurts}
+KOS = {@kos}
+TIME = {@time}
+RANK = {@rank}
+SUPPORTERS = {@supporters}
+SUPPORTERS_1 = {@supporters}
+SUPPORTERS_2 = {@supporters}
+PLAYTESTERS = {@playtesters}
+PLAYTESTERS_1 = {@playtesters}
+PLAYTESTERS_2 = {@playtesters}
+SUPPORTERS_PLAIN = {@supporters}
+PLAYTESTERS_PLAIN = {@playtesters}
+
+MINT_HEX = #59cf93
+YELLOW_HEX = #f8c53a
+RED_HEX = #e27285
+GREEN_HEX = #61a53f
+IMPORTANT_HEX = #8fd032
+SUBTLE_HEX = #a69e9a
+
+ACCESSORY_FRAGMENT_NAME = Фрагмент Кастомізації
+ACCESSORY_FRAGMENT_DESCRIPTION = Використай це, щоб себе кастомізувати!
+ACCESSORY_FRAGMENT_RESIDUE_NAME = Тінь Фрагменту Кастомізації
+ACCESSORY_FRAGMENT_RESIDUE_DESCRIPTION = Усе що лишилося від Фрагменту Кастомізації
+ACCESSORY_FRAGMENT = <i=AccessoryFragmentSmallWhiteOutline,1,16,12,10></i>
+ACCESSORY_UNLOCKED_RANDOM = {@accessory}
+ACCESSORY = {@accessory}
+TINT_UNLOCKED_RANDOM = {@tint}
+TINT = {@tint}
+
+BADGE_FRAGMENT_NAME = Фрагмент Сили
+BADGE_FRAGMENT_DESCRIPTION = Використай це, щоб отримати нові сили!
+BADGE_FRAGMENT_RESIDUE_NAME = Тінь Фрагменту Сили
+BADGE_FRAGMENT_RESIDUE_DESCRIPTION = Усе що лишилося від Фрагменту Сили
+BADGE_FRAGMENT = <i=BadgeFragmentSmallWhiteOutline,1,16,12,10></i>
+BADGE_UNLOCKED_RANDOM = {@badge}
+BADGE = {@badge}
+
+MAGIC_DOLLAR = Жадібний Папір
+MAGIC_DOLLAR_DESCRIPTION = Збери більше.
+MAGIC_DOLLAR_RESIDUE = ЗАЛИШОК Жадібного Паперу
+MAGIC_DOLLAR_RESIDUE_DESCRIPTION = Залишок залишений Жадібним Папером
+
+# Will be FRAGMENT_BADGE_DESCRIPTION or FRAGMENT_ACCESSORY_DESCRIPTION
+LIBERATION_ITEM = {@item}
+
+# File Select
+
+FILE_FRIENDS = Друзі
+FILE_THINGS = Штуки
+FILE_PLAYTIME = Час гри
+FILE_HURTS = Шкода
+FILE_QUICK_START = Швидкий Старт?
+FILE_NEW_GAME = Почати Нову Гру?
+
+# BADGES
+
+FRAGMENT_BADGE_DESCRIPTION = маленький біб
+
+BADGE_NO_BADGE = Без Значка
+BADGE_QUICK_SWAP = Швидка Зміна
+BADGE_FLOAT = Політ
+BADGE_LEAP = Ривок
+BADGE_BREAK = Сирена
+BADGE_HAIRBALL = Шмаркле-м'яч
+BADGE_RUN = Біг
+BADGE_BARK = Гавкіт
+BADGE_BOUNCE = Пружність
+BADGE_PARRY = ???
+
+BADGE_NO_BADGE_DESCRIPTION = Нічого.
+BADGE_QUICK_SWAP_DESCRIPTION = Перемикай Значки будь-коли!
+BADGE_FLOAT_DESCRIPTION = Сповільнює падіння.
+BADGE_LEAP_DESCRIPTION = Уникай небезпек.
+BADGE_BREAK_DESCRIPTION = Пошкоджуй все на екрані.
+BADGE_HAIRBALL_DESCRIPTION = Скажені стрибучі Шмарклі!
+BADGE_RUN_DESCRIPTION = Рухайся швидко!
+BADGE_BARK_DESCRIPTION = Завдавай багато шкоди в малому радіусі.
+BADGE_BOUNCE_DESCRIPTION = Відстрибуй від штук.
+BADGE_PARRY_DESCRIPTION = ???
+
+# {!1} in this case is an image of a keyboard key/ gamepad button
+BADGE_NO_BADGE_LONG_DESCRIPTION = Абсолютно нічого. Ти - голий, і це так ніяково.
+BADGE_QUICK_SWAP_LONG_DESCRIPTION = Утримуй {!1}, боб відкрити меню Швідкої Зміни, та відпусти на вибраному Значку.
+BADGE_FLOAT_LONG_DESCRIPTION = Натисни {!1} у повітрі, щоб виконати тріпотливий подвійний стрибок і, таким чином, сповільнити падіння.
+BADGE_LEAP_LONG_DESCRIPTION = Натисни {!1}, щоб виконати панічне пірнання. Ти стаєш невразливим у повітрі.
+BADGE_BREAK_LONG_DESCRIPTION = Натисни {!1}, щоб видалити всі кулі на екрані. Можна використати двічі за кімнату.
+BADGE_HAIRBALL_LONG_DESCRIPTION = Натисни {!1}, щоб запустити пружній Шмаркле-м'яч, який рухається з твоєю швидкістю.
+BADGE_RUN_LONG_DESCRIPTION = Натисни {!1}, щоб бігти швидко! Натисни {!1} ще раз, щоб не бігти швидко!
+BADGE_BARK_LONG_DESCRIPTION = Натисни {!1}, щоб гавкнути! Сильно шкодить тому, хто наблизиться.
+BADGE_BOUNCE_LONG_DESCRIPTION = Натисни {!1}, щоб згорнутись у пружній м'яч, який відскакує від ворогів і куль!
+BADGE_PARRY_LONG_DESCRIPTION = А знаєш, буде веселіше, якщо я не скажу тобі, що це робить!
+
+# CUSTOMIZATIONS
+
+FRAGMENT_ACCESSORY_DESCRIPTION = трохи мікрофібри
+
+CANVAS_32_DISPLAY = Маленьке Полотно
+CANVAS_64_DISPLAY = Середнє Полотно
+CANVAS_128_DISPLAY = Велике Полотно
+
+CANVAS_32_DESCRIPTION = Зроби маленький витвір!
+CANVAS_64_DESCRIPTION = Зроби Середній витвір!
+CANVAS_128_DESCRIPTION = Зроби ВЕЛИКИЙ витвір!
+
+ACCESSORY_NONE_DISPLAY = Нічого
+ACCESSORY_BALLCAP_DISPLAY = Кепка
+ACCESSORY_COWBOY_HAT_DISPLAY = Ковбойський Капелюх
+ACCESSORY_HAIR_DISPLAY = Волосся
+ACCESSORY_PARTY_HAT_DISPLAY = Святковий Капелюшок
+ACCESSORY_SMUG_DISPLAY = Самовдоволений
+ACCESSORY_SUNGLASSES_DISPLAY = Окуляри
+
+ACCESSORY_NONE_DESCRIPTION = Ти голяка.
+ACCESSORY_BALLCAP_DESCRIPTION = Носи на голові!
+ACCESSORY_COWBOY_HAT_DESCRIPTION = їіі-хаа!
+ACCESSORY_HAIR_DESCRIPTION = Про тебе всі говоритимуть!
+ACCESSORY_PARTY_HAT_DESCRIPTION = Чий це день народження?
+ACCESSORY_SMUG_DESCRIPTION = Тебе аж розпирає.
+ACCESSORY_SUNGLASSES_DESCRIPTION = Захисти дорогоцінні сітківки.
+
+PAINT_COLOR_WHITE_DISPLAY = Білий
+PAINT_COLOR_RED_DISPLAY = Червоний
+PAINT_COLOR_GREEN_DISPLAY = Зелений
+PAINT_COLOR_BLUE_DISPLAY = Синій
+PAINT_COLOR_YELLOW_DISPLAY = Жовтий
+PAINT_COLOR_PINK_DISPLAY = Рожевий
+PAINT_COLOR_MINT_DISPLAY = М'ятний
+PAINT_COLOR_PURPLE_DISPLAY = Фіолетовий
+PAINT_COLOR_BROWN_DISPLAY = Коричневий
+PAINT_COLOR_WASHED_DISPLAY = Потертий
+PAINT_COLOR_DYNAMIC_DISPLAY = Динамічний
+
+PAINT_COLOR_WHITE_DESCRIPTION = Нічого!
+PAINT_COLOR_RED_DESCRIPTION = Пофайбуй себе у Червоний!
+PAINT_COLOR_GREEN_DESCRIPTION = Пофайбуй себе у Зелений!
+PAINT_COLOR_BLUE_DESCRIPTION = Пофайбуй себе у Синій!
+PAINT_COLOR_YELLOW_DESCRIPTION = Пофайбуй себе у Жовтий!
+PAINT_COLOR_PINK_DESCRIPTION = Пофайбуй себе у Рожевий!
+PAINT_COLOR_MINT_DESCRIPTION = Пофайбуй себе у М'ятний!
+PAINT_COLOR_PURPLE_DESCRIPTION = Пофайбуй себе у Фіолетовий!
+PAINT_COLOR_BROWN_DESCRIPTION = Пофайбуй себе у Коричневий!
+PAINT_COLOR_WASHED_DESCRIPTION = Пофайбуй себе у Потертий!
+PAINT_COLOR_DYNAMIC_DESCRIPTION = Пофайбуй себе у ???!
+
+STRING_INPUT_DONE = Готово
+STRING_INPUT_DELETE = СТЕРТИ
+STRING_INPUT_SPACE = ПРОБІЛ
+# Used when writing in your name and stuff
+STRING_INPUT_CHARACTERS = A B C D E F G H I J K L M N O P Q R S T U V W X Y Z А Б В Г Ґ Д Е Є Ж З И І Ї Й К Л М Н О П Р С Т У Ф Х Ц Ш Щ Ь Ю Я 0 1 2 3 4 5 6 7 8 9 - + . : ! ? # $ & ~ ( )
+
+# CHARACTERS
+
+CHICKPEA = Ґарбанзо
+PINTO = Пінто
+FRANKIE = Френкі
+HUDSON = Гадзон
+GHOSTLY = Ґостлі
+
+SPECIES = {@species}
+CHICKPEA_SPECIES = Ноголюд
+PINTO_SPECIES = Ноголюд
+FRANKIE_SPECIES = Пес
+HUDSON_SPECIES = Пес
+GHOSTLY_SPECIES = Дух
+
+CHICKPEA_DESCRIPTION = Хоче врятувати світ.
+PINTO_DESCRIPTION = Я люблю боби.
+FRANKIE_DESCRIPTION = Це мій пес.
+HUDSON_DESCRIPTION = Це мій перший пес.
+GHOSTLY_DESCRIPTION = (Тільки Г2) Може літати, і це все.
+
+# Used in Rocky Exit, "I'm tired of you {x} on me!"
+ATTACKING = {@attacking}
+CHICKPEA_ATTACKING = плювання на
+PINTO_ATTACKING = плювання на
+FRANKIE_ATTACKING = гавкання на
+HUDSON_ATTACKING = гавкання на
+GHOSTLY_ATTACKING = лякання
+
+CHICKPEA_ATTACK = Плювок
+PINTO_ATTACK = Плювок
+FRANKIE_ATTACK = Гавкіт
+HUDSON_ATTACK = Гавкіт
+GHOSTLY_ATTACK = Лякання
+
+# FRIENDS
+
+BULL_DOG = Бруз
+KARATE = Карате
+PLANTAIN = Плантан
+HATSLY = Шапля
+FISH = Риба
+COMET = Комета
+MOLE = Крітко
+CARROT = Морква
+EYE_MAN = Око Люд
+TALL_BEE = Довга Бджола
+DOG = Пес
+FLOWEN = Квітик
+CLOUD = Хмарник
+BALLOON_ENJOYER = Любитель Кульок
+SNAIL = Равлі
+JELLYFISH_FRIEND = Медузець
+COOL_GHOST = Крутий Привид
+ONION = Цимуля
+MUSHROOM = Грибстер
+CUBELDA = Кубельда
+SOCKY = Шкарпетля
+COOL_DOG = Крутий Пес
+KEYBO = Ключень
+BURD = Бурд
+ZOE = Зої
+COW_DOG = Ков Пес
+FRUG = Фруґ
+BURT = Бурт
+CRABOI = Крабро
+DONUT = Пончошолас
+SQUICTOPUS = Сквіктопус
+BEAR = Ведмідь
+SNOW_BUDDY = Сніжний Друзяка
+DRAGON_SLUG = Драконо-Слимак
+STARFISH = ЗіркоРиба
+PEA = Горошина
+CONCERNING_DUCK = Качка
+FAT_DOG = Атлетичний Пес
+ICE_CUBE = Куб Льоду
+MERCHANT = Мутний
+
+BULL_DOG_DESCRIPTION = Добрий лідер.
+KARATE_DESCRIPTION = МяуУУ!
+PLANTAIN_DESCRIPTION = Не банан.
+HATSLY_DESCRIPTION = Шапки.
+FISH_DESCRIPTION = Вічно на щось скаржиться.
+COMET_DESCRIPTION = Надокучлива кам'яна особа з космосу.
+MOLE_DESCRIPTION = Кріт з лопатою? Ха-ха, зрозумів?
+CARROT_DESCRIPTION = Штани.
+EYE_MAN_DESCRIPTION = Вирячився на тебе.
+TALL_BEE_DESCRIPTION = Жалить в око (жартома).
+DOG_DESCRIPTION = Постійно їсть какашки.
+FLOWEN_DESCRIPTION = Пилковий Перфекціоніст.
+CLOUD_DESCRIPTION = Хмарний ентузіаст.
+BALLOON_ENJOYER_DESCRIPTION = Тільки не згадуй про голки.
+SNAIL_DESCRIPTION = У пошуках любові.
+JELLYFISH_FRIEND_DESCRIPTION = Засуджений злочинець.
+COOL_GHOST_DESCRIPTION = УууууУУууУуууууу.
+ONION_DESCRIPTION = Постійно ледь не плаче.
+MUSHROOM_DESCRIPTION = З'їдає тебе.
+CUBELDA_DESCRIPTION = Кубулярна.
+SOCKY_DESCRIPTION = ЖАХЛИВИЙ СМОРІД.
+COOL_DOG_DESCRIPTION = Любить війну.
+KEYBO_DESCRIPTION = Відомий за проникнення зі зломом.
+BURD_DESCRIPTION = КААААААХ.
+ZOE_DESCRIPTION = Зелена.
+COW_DOG_DESCRIPTION = Марф марф!
+FRUG_DESCRIPTION = Може казати лише "Фруґ". Напевно.
+BURT_DESCRIPTION = Обожнює індійську їжу.
+CRABOI_DESCRIPTION = Це ж твій бро - КРАБРО!
+DONUT_DESCRIPTION = Неїстівний. Огидний. Відразливий.
+SQUICTOPUS_DESCRIPTION = НАНАНА!
+BEAR_DESCRIPTION = Алергія на все - і це надвичайно смішно.
+SNOW_BUDDY_DESCRIPTION = Сніг.
+DRAGON_SLUG_DESCRIPTION = Продуктовий магазин? Не розумію.
+STARFISH_DESCRIPTION = Раніше зустрічалася з Доктором Професором Наукою.
+PEA_DESCRIPTION = НЕ козяча горошина.
+CONCERNING_DUCK_DESCRIPTION = Качки норм.
+FAT_DOG_DESCRIPTION = Важливо тренуватись.
+ICE_CUBE_DESCRIPTION = Невдаха.
+MERCHANT_DESCRIPTION = Насправді, не такий вже й мутний.
+
+# Enemies
+
+ROCKY = Каменюка
+ROCKY_DESCRIPTION = Дуже вправна в стрибанні.
+
+DOCTOR_PROFESSOR_SCIENCE = Доктор Професор Наука
+DOCTOR_PROFESSOR_SCIENCE_DESCRIPTION = Насправді повний дурень.
+
+GRAND_MUSHROOM_BABY = Руйнівний Ангел
+GRAND_MUSHROOM_BABY_DESCRIPTION = Дуже смертоносний.
+
+FACE = Прото-Провіденс
+FACE_DESCRIPTION = Прототип для масового стеження.
+
+MUTATION = Мутація
+MUTATION_DESCRIPTION = Жахлива хвороба.
+
+BILLI = Білліонер Боунс
+BILLI_DESCRIPTION = Насправді нічого не заробив.
+
+PROVIDENCE = Провіденс
+PROVIDENCE_DESCRIPTION = Фінальне випробування.
+
+EVIL_PINECONE = Зла Шишка
+EVIL_PINECONE_DESCRIPTION = Я справді старався, щоб це не виглядало як какашка.
+
+EVIL_MUSHROOM = Злий Гриб
+EVIL_MUSHROOM_DESCRIPTION = З'являється лише раз.
+
+SNOW_CRAB = Краб
+SNOW_CRAB_DESCRIPTION = Якось забув про нього.
+
+EVIL_SNOWMAN = Злий Снігоперсонаж
+EVIL_SNOWMAN_DESCRIPTION = Не Сніговик, це не так інклюзивно.
+
+EVIL_SNOWFLAKE = Зла Сніжинка
+EVIL_SNOWFLAKE_DESCRIPTION = Кожна Зла Сніжинка - унікальна.
+
+WIZARD = Бобовий Чарівник
+WIZARD_DESCRIPTION = Стривай, у цьому світі є магія?
+
+CONSTRUCTION_WORKER = Працівник
+CONSTRUCTION_WORKER_DESCRIPTION = Має заснувати профспілку.
+
+EVIL_SNOWBALL = Зла Снігова Куля
+EVIL_SNOWBALL_DESCRIPTION = Ця снігова куля - зла?
+
+PEE_SNOWBALL = Зла Снігова Куля (жовтий варіант)
+PEE_SNOWBALL_DESCRIPTION = Ха-ха-ха!
+
+BEE = Бджола
+BEE_DESCRIPTION = Це - бджола, це ж очевидно!
+
+EVIL_CANDY_CANE = Містер Льодяник
+EVIL_CANDY_CANE_DESCRIPTION = Їх любов просто не розуміють.
+
+ANGRY_FISH = Фредді
+ANGRY_FISH_DESCRIPTION = Найпривітніша риба.
+
+HELICHOPPER = Гвинтокоптер
+HELICHOPPER_DESCRIPTION = Дитя Гвинтокрила й Гелікоптера.
+
+SPHERO = Містер Усміханчик
+SPHERO_DESCRIPTION = Улюбленець усіх.
+
+SPHERO_SLOW = Містер Хмурчик
+SPHERO_SLOW_DESCRIPTION = Не такий вже й поганий.
+
+SPHERO_CRAZY = Містер Божевільчик
+SPHERO_CRAZY_DESCRIPTION = У підсумку ми його не використали. Нема за що :)
+
+BILLI_JUNIOR = Біллі' Молодший
+BILLI_JUNIOR_DESCRIPTION = Один із багатьох відчужених дітей Біллі'.

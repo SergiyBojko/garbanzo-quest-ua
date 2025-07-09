@@ -1,0 +1,100 @@
+# Names of levels
+
+# C) Cosmic Connection
+LEVEL_CRAPH = Блок Потребує Тебе
+LEVEL_HECKX = Оцінка Продуктивності
+LEVEL_MUSHD = Еклектика
+LEVEL_STARA = Марафон!
+LEVEL_STARB = Без Сорочки, Без Взуття - Немає Обслуговування
+
+# 1) ааааааааааааааа
+LEVEL_SNOWBASE = Дім
+LEVEL_SNOWB = Приємний Перехід
+LEVEL_SNOWC = Вітальна Дорога
+LEVEL_SNOWD = Тепле Озеро
+LEVEL_SNOWE = Літаюча Вода
+LEVEL_SNOWF = Провальна Спекуляція
+LEVEL_SNOWU = Чи Пам'ятаєш?
+LEVEL_SNOWZ = Чуваче, Тобі Потрібне Управління Гнівом
+
+# 2) Tall Mountains
+LEVEL_APARTMENTJ = Чарівник На Камені
+LEVEL_LEVELA = Рухомі Мости
+LEVEL_LEVELC = Це дощ із Котів та Собак!
+LEVEL_LEVELD = Шукаємо Працівників
+LEVEL_LEVELF = Містер Льодяник Любить Тебе
+LEVEL_LEVELU = Чи Можеш Згадати?
+LEVEL_LEVELX = Повітряні Кульки!
+LEVEL_SNOWH = Зоряна Гора
+LEVEL_SNOWG = Сторожова Вежа
+LEVEL_SNOWX = Чуваче, Розслабся
+LEVEL_LEVELB = Вгору
+LEVEL_LEVELZ = Вниз
+
+# 3) Magic Cavern
+LEVEL_MUSHA = Брибоспад
+LEVEL_MUSHB = Псилоцибін
+LEVEL_MUSHE = Бачиш Зорі
+LEVEL_MUSHF = Пливи Далі
+LEVEL_MUSHU = Чи Можеш Спитати Розум?
+LEVEL_MUSHZ = Чуваче, Прийми Заспокійливе
+
+# 4) Crap Town
+LEVEL_HECKY = Корпоративне Житло
+LEVEL_APARTMENTK = Мертва Земля
+LEVEL_APARTMENTM = Вугільне Містечко
+LEVEL_CRAPA = Темна Печера
+LEVEL_CRAPD = Місто Дотиків
+LEVEL_CRAPE = Розбитий Залив
+LEVEL_CRAPG = Гірське Озеро
+LEVEL_CRAPI = Вхід у Вежу
+LEVEL_CRAPZ = Чуваче, Заспокойся
+LEVEL_LEVELL = Крихкі Механізми
+LEVEL_LEVELQ = Фредді: Найпривітніша Риба
+LEVEL_APARTMENTI = Карієс
+LEVEL_BELLYZ = Ремісія
+LEVEL_CRAPF = Розлад Травлення
+LEVEL_CRAPX = Чи Можеш Впізнати?
+
+# 5) Horrible Heck
+LEVEL_HECKA = Новий Спосіб Поїздки
+LEVEL_HECKB = Чи Можеш Подумати?
+LEVEL_HECKC = Автоматизація
+LEVEL_HECKD = Тімбілдинг
+LEVEL_HECKE = Тут Перерв Немає
+LEVEL_HECKG = Потрібна Автентифікація
+LEVEL_HECKH = Запізнився на Роботу
+LEVEL_HECKJ = Сходи
+LEVEL_HECKK = Жахлива Поїздка
+LEVEL_HECKW = Чуваче, у Що з Тобою?
+LEVEL_HECKZ = Відставка
+
+# 6) New Freedomland
+LEVEL_FREEDOMA = Плата за Ходьбу
+LEVEL_FREEDOMB = Гра серед Трафіку
+LEVEL_FREEDOMC = Долина Біллі'
+LEVEL_FREEDOME = Автоматичні Банкомати
+LEVEL_FREEDOMG = Годуй Рибок
+LEVEL_FREEDOMH = Природа - Прекрасна
+LEVEL_FREEDOMJ = Було б Дуже Смішно, Якби ти Впав
+LEVEL_FREEDOMK = Океан Біллі'
+LEVEL_FREEDOMU = Чи Можеш Бззути Бджужутнім?
+LEVEL_FREEDOMZ = Маєток Біллі'
+LEVEL_FREEDOMD = Каналізація
+LEVEL_FREEDOMI = Покинутий Ліфт
+LEVEL_FREEDOMW = Чуваче, у тебе Жахливе Ставлення
+LEVEL_FREEDOMY = Таємний Вихід
+
+# 7) New New Freedomland
+LEVEL_APARTMENTH = Збентеження
+LEVEL_FREEDOMF = Жорстокість
+LEVEL_HECKI = Скребіння
+LEVEL_LEVELI = Розтрощити
+LEVEL_LEVELJ = Заморозити
+LEVEL_VOIDA = Приголомшити
+LEVEL_VOIDB = Пронизати
+LEVEL_VOIDZ = Переформувати
+
+# X) Special
+LEVEL_REST = Відпустка
+LEVEL_DEMO_END = Demo End?
