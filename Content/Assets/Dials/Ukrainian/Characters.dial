@@ -2,7 +2,7 @@
 
 # HOME BASE/ REST/ JAIL
 
-BEAR_TRAPPED.FASTER_LIBERATION = OUTTA MY WAY!
+BEAR_TRAPPED.FASTER_LIBERATION = З ДОРОГИ!
 
 BEAR_TRAPPED =
     [profile: Bear]
@@ -198,7 +198,7 @@ STARFISH.2 (HOME) =
     <s=4>Будь ласка</s>, не рань мої почуття, я ніколи не оговтаюсь.
 
 JELLYFISH_FRIEND.J1 (JAIL) =
-    Обожнюю тюрму, як тут як вдома.
+    Обожнюю тюрму, я тут як вдома.
 
 JELLYFISH_FRIEND.R1 (REST) =
     Навіть такому психопату, як мені, подобається пляж.
@@ -449,7 +449,7 @@ ICE_CUBE.J1 (JAIL) =
     Починаю трохи пітніти!
 
 ICE_CUBE (HOME) =
-    Я такий прохолодний.
+    Я такий крижаний.
 
 CLOUD.R1 (REST) =
     <f=2,4>Ааааа</f>, подивись на це. Ні хмарини в небі.
@@ -595,7 +595,7 @@ CRABOI.GYM (GYM) =
     Одного дня я розріжу світ навпіл.
 
 CRABOI.KITCHEN (KITCHEN) = 
-    Я тут займаюсь підготовкою до кухні.
+    Я тут займаюсь підготовкою для кухні.
 
     Хай так собі думають.
 

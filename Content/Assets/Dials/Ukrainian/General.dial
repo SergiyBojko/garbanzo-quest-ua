@@ -97,7 +97,7 @@ AFFIRM_EXIT_NEVERMIND = Забудь
 AFFIRM_EXIT_TITLE = Назад до Головного Меню
 AFFIRM_EXIT_GAME = Вийти з Гри
 MENU_SWITCH_TWO = Режим Двох Гравців
-MENU_SWITCH_ONE = Режим Одного Гравція
+MENU_SWITCH_ONE = Режим Одного Гравця
 MENU_FEEDBACK = Відгук (Відкриє Браузер)
 MENU_MASTER_VOLUME = Загальна Гучність
 MENU_SFX_VOLUME = Гучність Ефектів
@@ -422,8 +422,8 @@ BADGE = {@badge}
 
 MAGIC_DOLLAR = Жадібний Папір
 MAGIC_DOLLAR_DESCRIPTION = Збери більше.
-MAGIC_DOLLAR_RESIDUE = ЗАЛИШОК Жадібного Паперу
-MAGIC_DOLLAR_RESIDUE_DESCRIPTION = Залишок залишений Жадібним Папером
+MAGIC_DOLLAR_RESIDUE = Тінь Жадібного Паперу
+MAGIC_DOLLAR_RESIDUE_DESCRIPTION = Усе що лишилося від Жадібного Паперу
 
 # Will be FRAGMENT_BADGE_DESCRIPTION or FRAGMENT_ACCESSORY_DESCRIPTION
 LIBERATION_ITEM = {@item}
@@ -465,7 +465,7 @@ BADGE_PARRY_DESCRIPTION = ???
 
 # {!1} in this case is an image of a keyboard key/ gamepad button
 BADGE_NO_BADGE_LONG_DESCRIPTION = Абсолютно нічого. Ти - голий, і це так ніяково.
-BADGE_QUICK_SWAP_LONG_DESCRIPTION = Утримуй {!1}, боб відкрити меню Швідкої Зміни, та відпусти на вибраному Значку.
+BADGE_QUICK_SWAP_LONG_DESCRIPTION = Утримуй {!1}, щоб відкрити меню Швидкої Зміни, та відпусти на вибраному Значку.
 BADGE_FLOAT_LONG_DESCRIPTION = Натисни {!1} у повітрі, щоб виконати тріпотливий подвійний стрибок і, таким чином, сповільнити падіння.
 BADGE_LEAP_LONG_DESCRIPTION = Натисни {!1}, щоб виконати панічне пірнання. Ти стаєш невразливим у повітрі.
 BADGE_BREAK_LONG_DESCRIPTION = Натисни {!1}, щоб видалити всі кулі на екрані. Можна використати двічі за кімнату.
