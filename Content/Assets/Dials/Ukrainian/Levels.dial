@@ -32,7 +32,7 @@ LEVEL_LEVELB = Вгору
 LEVEL_LEVELZ = Вниз
 
 # 3) Magic Cavern
-LEVEL_MUSHA = Брибоспад
+LEVEL_MUSHA = Грибоспад
 LEVEL_MUSHB = Псилоцибін
 LEVEL_MUSHE = Бачиш Зорі
 LEVEL_MUSHF = Пливи Далі
