@@ -1,13 +1,15 @@
 # Names of levels
 
 # C) Cosmic Connection
+WORLD_C = Космічне Сполучення
 LEVEL_CRAPH = Блок Потребує Тебе
 LEVEL_HECKX = Оцінка Продуктивності
 LEVEL_MUSHD = Еклектика
 LEVEL_STARA = Марафон!
 LEVEL_STARB = Без Сорочки, Без Взуття - Немає Обслуговування
 
-# 1) ааааааааааааааа
+# 1) Ice Cream Island
+WORLD_1 = Острів Морозива
 LEVEL_SNOWBASE = Дім
 LEVEL_SNOWB = Приємний Перехід
 LEVEL_SNOWC = Вітальна Дорога
@@ -18,6 +20,8 @@ LEVEL_SNOWU = Чи Пам'ятаєш?
 LEVEL_SNOWZ = Чуваче, Тобі Потрібне Управління Гнівом
 
 # 2) Tall Mountains
+WORLD_2 = Високі Гори
+WORLD_2B = Під Землею
 LEVEL_APARTMENTJ = Чарівник На Камені
 LEVEL_LEVELA = Рухомі Мости
 LEVEL_LEVELC = Це дощ із Котів та Собак!
@@ -32,6 +36,7 @@ LEVEL_LEVELB = Вгору
 LEVEL_LEVELZ = Вниз
 
 # 3) Magic Cavern
+WORLD_3 = Чарівна Печера
 LEVEL_MUSHA = Грибоспад
 LEVEL_MUSHB = Псилоцибін
 LEVEL_MUSHE = Бачиш Зорі
@@ -40,6 +45,8 @@ LEVEL_MUSHU = Чи Можеш Спитати Розум?
 LEVEL_MUSHZ = Чуваче, Прийми Заспокійливе
 
 # 4) Crap Town
+WORLD_4 = Смердюче Місто
+WORLD_4B = Черево Боба
 LEVEL_HECKY = Корпоративне Житло
 LEVEL_APARTMENTK = Мертва Земля
 LEVEL_APARTMENTM = Вугільне Містечко
@@ -57,6 +64,7 @@ LEVEL_CRAPF = Розлад Травлення
 LEVEL_CRAPX = Чи Можеш Впізнати?
 
 # 5) Horrible Heck
+WORLD_5 = Жахливе Хекло
 LEVEL_HECKA = Новий Спосіб Поїздки
 LEVEL_HECKB = Чи Можеш Подумати?
 LEVEL_HECKC = Автоматизація
@@ -70,6 +78,8 @@ LEVEL_HECKW = Чуваче, що з Тобою?
 LEVEL_HECKZ = Відставка
 
 # 6) New Freedomland
+WORLD_6 = Нью Фрідомленд
+WORLD_6B = Глибока Яма
 LEVEL_FREEDOMA = Плата за Ходьбу
 LEVEL_FREEDOMB = Гра серед Трафіку
 LEVEL_FREEDOMC = Долина Біллі'
@@ -86,6 +96,7 @@ LEVEL_FREEDOMW = Чуваче, у тебе Жахливе Ставлення
 LEVEL_FREEDOMY = Таємний Вихід
 
 # 7) New New Freedomland
+WORLD_7 = Нью Нью Фрідомленд
 LEVEL_APARTMENTH = Збентеження
 LEVEL_FREEDOMF = Жорстокість
 LEVEL_HECKI = Скребіння

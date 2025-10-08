@@ -34,22 +34,22 @@ DEMO_END.1 =
 
 # CREDITS
 
+CREDITS_TITLE.TRANSLATORS = <c={IMPORTANT_HEX}>ПЕРЕКЛАДАЧІ?</c>
+
+CREDITS_TITLE.SUPPORTERS = <c={IMPORTANT_HEX}>ХТО ПІДТРИМАВ?</c>
+
+CREDITS_TITLE.PLAYTESTERS = <c={IMPORTANT_HEX}>ПЛЕЙТЕСТЕРИ?</c>
+
 CREDITS =
     [CrawlSound: ZacharySpeak, ExtraBig: true]
     <c={IMPORTANT_HEX}>ХТО ВІДПОВІДАЛЬНИЙ ЗА ЦЕ?</c>
     Garbanzo Quest створено Zachary Gardner (мною).
 
-    <c={IMPORTANT_HEX}>ХТО ПІДТРИМАВ?</c>
-    {SUPPORTERS_1}...
+    # @TRANSLATORS
 
-    <c={IMPORTANT_HEX}>ЩЕ БІЛЬШЕ ТИХ ХТО ПІДТРИМАВ?</c>
-    {SUPPORTERS_2}.
+    @SUPPORTERS
 
-    <c={IMPORTANT_HEX}>ПЛЕЙТЕСТЕРИ?</c>
-    {PLAYTESTERS_1}...
-
-    <c={IMPORTANT_HEX}>ЩЕ БІЛЬШЕ ПЛЕЙТЕСТЕРІВ?</c>
-    {PLAYTESTERS_2}.
+    @PLAYTESTERS
 
     <c={IMPORTANT_HEX}>ШТУКИ ВИКОРИСТАНІ?</c>
     MonoGame фреймворк ігрового рушія,
@@ -57,7 +57,7 @@ CREDITS =
     MilkyTracker чіптюн трекер,
     AAP-SPLENDOR128 палітра кольорів,
     Monogram шрифт,
-    PICO-8 шрифт
+    PICO-8 шрифт.
 
     <c={IMPORTANT_HEX}>ХТОСЬ ЩЕ?</c>
     Ти! Дякую за те що граєш мою гру!
@@ -176,7 +176,7 @@ REST.2 =
 
 *REST.NO_CHICKPEA =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]
-    Ах! Яка дурня. Я мушу дозволити собі перепочити.
+    Ах! Дурниці. Я мушу дозволити собі перепочити.
 
 *REST.NO_PINTO =
     [Portrait: PlayerOnePortrait, CrawlSound: PlayerOneSpeak]

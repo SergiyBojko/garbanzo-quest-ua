@@ -234,6 +234,10 @@ CUTSCENE_PODIUM_FUN_DICE = Якщо не можеш вирішити що вдя
 CUTSCENE_PENCIL_AFFIRM_SAVE = Ти хочеш вийти і <c={IMPORTANT_HEX}>Зберегти Зміни</c>?
 CUTSCENE_PENCIL_AFFIRM_CANCEL =  Ти хочеш вийти і <c={RED_HEX}>Відмінити Зміни</c>?
 
+# FRIENDLY CONTAINER
+
+FRIENDLY_CONTAINER_LEAVE = Я забираюсь звідси...
+
 # QUICK SWAP
 
 CUTSCENE_QUICK_SWAP = Зробімо це разом!

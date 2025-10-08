@@ -67,6 +67,8 @@ MENU_CHECKLIST = Список
 MENU_CREDITS = Автори
 MENU_AUDIO = Аудіо
 MENU_DISPLAY = Дисплей
+# Used when instructing the player to hold a button
+MENU_HOLD = Утримуй
 MENU_SKIP = Пропуск (Утримуй)
 MENU_SKIPPING = Пропускаємо
 MENU_INPUT = Керування
@@ -98,9 +100,14 @@ AFFIRM_EXIT_TITLE = Назад до Головного Меню
 AFFIRM_EXIT_GAME = Вийти з Гри
 MENU_SWITCH_TWO = Режим Двох Гравців
 MENU_SWITCH_ONE = Режим Одного Гравця
-MENU_FEEDBACK = Відгук (Відкриє Браузер)
+MENU_FEEDBACK = Відгук
+AFFIRM_MENU_FEEDBACK = Відкрити вікно браузера, щоб дати відгук?
 MENU_MASTER_VOLUME = Загальна Гучність
 MENU_SFX_VOLUME = Гучність Ефектів
+MENU_CHECK_AUDIO_HARDWARE = Скинути Аудіо Пристрій
+MENU_CHECK_AUDIO_HARDWARE_TOAST = Аудіо пристрій скинуто.
+MENU_POLL_AUDIO_HARDWARE = Сканувати Аудіо Пристрій
+MENU_POLL_AUDIO_HARDWARE_WARNING = Тепер зміна аудіо пристрою буде виявлятися автоматично. (Може спричинити проблеми зі швидкодією.)
 MENU_MUSIC_VOLUME = Гучність Музики
 MENU_FULLSCREEN = Повний Екран
 MENU_WINDOW_SCALE = Масштаб Вікна
@@ -140,6 +147,10 @@ MENU_RECOVER = Відновлення
 MENU_RECOVER_ROOM = Кімната
 MENU_RECOVER_LEVEL = Рівень
 MENU_RECOVER_NEVER = Ніколи
+# MENU_REBIND_KEYBOARD and MENU_REBIND_GAMEPAD are automatically followed by the button being re-assigned in the game
+MENU_REBIND_KEYBOARD = <color={SUBTLE_HEX}>Натисни щось на Клавіатурі для</color>
+MENU_REBIND_GAMEPAD = <color={SUBTLE_HEX}>Натисни щось на Геймпаді для</color>
+MENU_HOLD_FOR_MULTIPLE = Утримуй для кількох
 MENU_RESET_INPUTS = Натисни (Tab) щоб Скинути Клавіші
 MENU_NO_KEYBOARD = {!0} не використовує Клавіатуру.
 MENU_NO_GAMEPAD = {!0} не використовує Геймпад.
@@ -149,6 +160,7 @@ MENU_CHOOSE_INPUT_SOURCES = Обери Джерела Керування
 AFFIRM_DELETE_PROFILE = Ти хочеш видалити цей профіль?
 MENU_PROFILE = Профіль
 MENU_RENAME = Перейменувати
+MENU_DELETE = Видалити
 MENU_SELECT = Вибрати
 MENU_AUTO = Авто
 MENU_INPUT_PROMPTS = Дії
@@ -167,6 +179,7 @@ MENU_SPECIAL_ONE = Здібність Значка
 MENU_SPECIAL_TWO = Швидка Зміна
 MENU_SPECIAL_TWO_EXPERT = Здібність Значка 2
 MENU_MOONWALK = Місячна Ходьба
+MENU_MOVE_BACKWARDS = Рухайся Назад
 MENU_BADGE_STYLE = Стиль Значка
 MENU_BADGE_STYLE_NORMAL = Нормальний
 MENU_BADGE_STYLE_EXPERT = Експерт
@@ -196,6 +209,7 @@ FILE_LOCK_WARPS = ЗВ
 DUPLICATE_WARNING_CONTINUE = (НАТИСНИ ЩОСЬ щоб ПРОДОВЖИТИ)
 DUPLICATE_WARNING_TITLE = УВАГА! ВИЯВЛЕНО ДУБЛІКАТИ:
 
+# Hub as in a online space for users to share their custom made levels
 TITLE_BUILDER = ХАБ
 MENU_BUILDER = Хаб
 MENU_RETURN_BUILDER = Назад у Хаб
@@ -386,14 +400,9 @@ HURTS = {@hurts}
 KOS = {@kos}
 TIME = {@time}
 RANK = {@rank}
+TRANSLATORS = {@translators}
 SUPPORTERS = {@supporters}
-SUPPORTERS_1 = {@supporters}
-SUPPORTERS_2 = {@supporters}
 PLAYTESTERS = {@playtesters}
-PLAYTESTERS_1 = {@playtesters}
-PLAYTESTERS_2 = {@playtesters}
-SUPPORTERS_PLAIN = {@supporters}
-PLAYTESTERS_PLAIN = {@playtesters}
 
 MINT_HEX = #59cf93
 YELLOW_HEX = #f8c53a
@@ -495,6 +504,14 @@ ACCESSORY_PARTY_HAT_DISPLAY = Святковий Капелюшок
 ACCESSORY_SMUG_DISPLAY = Самовдоволений
 ACCESSORY_SUNGLASSES_DISPLAY = Окуляри
 
+ACCESSORY_NONE_FULL_DISPLAY = Нічого
+ACCESSORY_BALLCAP_FULL_DISPLAY = Аксесуар Кепка
+ACCESSORY_COWBOY_HAT_FULL_DISPLAY = Аксесуар Ковбойський Капелюх
+ACCESSORY_HAIR_FULL_DISPLAY = Аксесуар Волосся
+ACCESSORY_PARTY_HAT_FULL_DISPLAY = Аксесуар Святковий Капелюшок
+ACCESSORY_SMUG_FULL_DISPLAY = Аксесуар Самовдоволений
+ACCESSORY_SUNGLASSES_FULL_DISPLAY = Аксесуар Окуляри
+
 ACCESSORY_NONE_DESCRIPTION = Ти голяка.
 ACCESSORY_BALLCAP_DESCRIPTION = Носи на голові!
 ACCESSORY_COWBOY_HAT_DESCRIPTION = їіі-хаа!
@@ -514,6 +531,18 @@ PAINT_COLOR_PURPLE_DISPLAY = Фіолетовий
 PAINT_COLOR_BROWN_DISPLAY = Коричневий
 PAINT_COLOR_WASHED_DISPLAY = Потертий
 PAINT_COLOR_DYNAMIC_DISPLAY = Динамічний
+
+PAINT_COLOR_WHITE_FULL_DISPLAY = Біла Фарба
+PAINT_COLOR_RED_FULL_DISPLAY = Червона Фарба
+PAINT_COLOR_GREEN_FULL_DISPLAY = Зелена Фарба
+PAINT_COLOR_BLUE_FULL_DISPLAY = Синя Фарба
+PAINT_COLOR_YELLOW_FULL_DISPLAY = Жовта Фарба
+PAINT_COLOR_PINK_FULL_DISPLAY = Рожева Фарба
+PAINT_COLOR_MINT_FULL_DISPLAY = М'ятна Фарба
+PAINT_COLOR_PURPLE_FULL_DISPLAY = Фіолетова Фарба
+PAINT_COLOR_BROWN_FULL_DISPLAY = Коричнева Фарба
+PAINT_COLOR_WASHED_FULL_DISPLAY = Потерта Фарба
+PAINT_COLOR_DYNAMIC_FULL_DISPLAY = Динамічна Фарба
 
 PAINT_COLOR_WHITE_DESCRIPTION = Нічого!
 PAINT_COLOR_RED_DESCRIPTION = Пофайбуй себе у Червоний!
